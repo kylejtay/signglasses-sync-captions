@@ -12,6 +12,10 @@
         "source": "/Users/kyle/Develop/signglasses-movies/ACRCloudSDKDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/panqinxue/AndroidStudioProjects/ACRCloud-android-sdk-1.3.3/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
         "source": "/Users/panqinxue/AndroidStudioProjects/ACRCloud-android-sdk-1.3.3/ACRCloudSDKDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
     }

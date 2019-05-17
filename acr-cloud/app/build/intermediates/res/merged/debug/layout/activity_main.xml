@@ -24,13 +24,13 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="停止录音并搜索(仅哼唱)" />
-            
+
         <Button
             android:id="@+id/cancel"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="取消" />    -->      
-        
+            android:text="取消" />    -->
+
 <!--         <TextView
             android:id="@+id/volume"
             android:layout_width="fill_parent"
@@ -49,11 +49,11 @@
             android:id="@+id/result"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:textColor="#17BB44"
-            android:textSize="16sp"
-            android:gravity="top|center"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
             android:paddingLeft="100dip"
+            android:gravity="top|center"
             android:layout_gravity="top|center" />
-        
+
     </LinearLayout>
 </LinearLayout>

@@ -1,0 +1,793 @@
+[
+  {
+    "text": "[EVIL LAUGHTER]",
+    "index": "1",
+    "timestamp": "00:00:00,601 --> 00:00:04,438",
+    "start": 601,
+    "end": 4438
+  },
+  {
+    "text": "HOMER: Whoo, a<br>roll-a-ma-coaster.",
+    "index": "2",
+    "timestamp": "00:00:04,438 --> 00:00:06,206",
+    "start": 4438,
+    "end": 6206
+  },
+  {
+    "text": "LISA: I'm scared, Dad!",
+    "index": "3",
+    "timestamp": "00:00:06,206 --> 00:00:07,608",
+    "start": 6206,
+    "end": 7608
+  },
+  {
+    "text": "HOMER: Sweetie, they won't kill<br>you in an amusement park,",
+    "index": "4",
+    "timestamp": "00:00:07,608 --> 00:00:09,343",
+    "start": 7608,
+    "end": 9343
+  },
+  {
+    "text": "as long as you have a dime<br>left in your pocket.",
+    "index": "5",
+    "timestamp": "00:00:09,343 --> 00:00:12,145",
+    "start": 9343,
+    "end": 12145
+  },
+  {
+    "text": "SIDESHOW BOB: There's<br>nothing you can do.",
+    "index": "6",
+    "timestamp": "00:00:12,145 --> 00:00:13,680",
+    "start": 12145,
+    "end": 13680
+  },
+  {
+    "text": "You're about to die!",
+    "index": "7",
+    "timestamp": "00:00:13,680 --> 00:00:15,315",
+    "start": 13680,
+    "end": 15315
+  },
+  {
+    "text": "HOMER: You sound like my doctor.",
+    "index": "8",
+    "timestamp": "00:00:15,315 --> 00:00:16,617",
+    "start": 15315,
+    "end": 16617
+  },
+  {
+    "text": "[SCREAMING]",
+    "index": "9",
+    "timestamp": "00:00:16,617 --> 00:00:18,018",
+    "start": 16617,
+    "end": 18018
+  },
+  {
+    "text": "SIDESHOW BOB: Ah,<br>my next victims.",
+    "index": "10",
+    "timestamp": "00:00:18,018 --> 00:00:19,286",
+    "start": 18018,
+    "end": 19286
+  },
+  {
+    "text": "So anyway, where were you all?",
+    "index": "11",
+    "timestamp": "00:00:19,286 --> 00:00:21,822",
+    "start": 19286,
+    "end": 21822
+  },
+  {
+    "text": "HOMER: Bob, not only are you<br>not killing us, I'm having fun.",
+    "index": "12",
+    "timestamp": "00:00:21,822 --> 00:00:24,825",
+    "start": 21822,
+    "end": 24825
+  },
+  {
+    "text": "MARGE: Homie, they said<br>to stay seated.",
+    "index": "13",
+    "timestamp": "00:00:24,825 --> 00:00:26,426",
+    "start": 24825,
+    "end": 26426
+  },
+  {
+    "text": "HOMER: That's a load of --",
+    "index": "14",
+    "timestamp": "00:00:26,426 --> 00:00:27,527",
+    "start": 26426,
+    "end": 27527
+  },
+  {
+    "text": "[SCREAMING]",
+    "index": "15",
+    "timestamp": "00:00:27,527 --> 00:00:30,731",
+    "start": 27527,
+    "end": 30731
+  },
+  {
+    "text": "I always get sick flying<br>backwards.",
+    "index": "16",
+    "timestamp": "00:00:30,731 --> 00:00:32,132",
+    "start": 30731,
+    "end": 32132
+  },
+  {
+    "text": "D'oh!",
+    "index": "17",
+    "timestamp": "00:00:32,132 --> 00:00:33,200",
+    "start": 32132,
+    "end": 33200
+  },
+  {
+    "text": "Hey, I can see our car.",
+    "index": "18",
+    "timestamp": "00:00:33,200 --> 00:00:35,202",
+    "start": 33200,
+    "end": 35202
+  },
+  {
+    "text": "[GROANING]",
+    "index": "19",
+    "timestamp": "00:00:35,202 --> 00:00:37,304",
+    "start": 35202,
+    "end": 37304
+  },
+  {
+    "text": "You guys haven't seen a<br>giant steel ball, have you?",
+    "index": "20",
+    "timestamp": "00:00:37,304 --> 00:00:39,106",
+    "start": 37304,
+    "end": 39106
+  },
+  {
+    "text": "Ah!",
+    "index": "21",
+    "timestamp": "00:00:39,106 --> 00:00:40,607",
+    "start": 39106,
+    "end": 40607
+  },
+  {
+    "text": "You don't want to hurt me, ball.",
+    "index": "22",
+    "timestamp": "00:00:40,607 --> 00:00:41,675",
+    "start": 40607,
+    "end": 41675
+  },
+  {
+    "text": "We're both big and round and<br>never finished high school.",
+    "index": "23",
+    "timestamp": "00:00:41,675 --> 00:00:44,444",
+    "start": 41675,
+    "end": 44444
+  },
+  {
+    "text": "[EXPLOSION]",
+    "index": "24",
+    "timestamp": "00:00:44,444 --> 00:00:45,913",
+    "start": 44444,
+    "end": 45913
+  },
+  {
+    "text": "Save me, tourists!",
+    "index": "25",
+    "timestamp": "00:00:45,913 --> 00:00:47,281",
+    "start": 45913,
+    "end": 47281
+  },
+  {
+    "text": "[SCREAMING]",
+    "index": "26",
+    "timestamp": "00:00:47,281 --> 00:00:48,615",
+    "start": 47281,
+    "end": 48615
+  },
+  {
+    "text": "KRUSTY: Welcome to a magical<br>journey through my mouth.",
+    "index": "27",
+    "timestamp": "00:00:48,615 --> 00:00:50,550",
+    "start": 48615,
+    "end": 50550
+  },
+  {
+    "text": "NELSON: You're all going to die.",
+    "index": "28",
+    "timestamp": "00:00:50,550 --> 00:00:52,386",
+    "start": 50550,
+    "end": 52386
+  },
+  {
+    "text": "Ha ha.",
+    "index": "29",
+    "timestamp": "00:00:52,386 --> 00:00:54,154",
+    "start": 52386,
+    "end": 54154
+  },
+  {
+    "text": "[CHILDISH SINGING]",
+    "index": "30",
+    "timestamp": "00:00:54,154 --> 00:00:56,390",
+    "start": 54154,
+    "end": 56390
+  },
+  {
+    "text": "BART: A fate worse than death,<br>a kiddie ride.",
+    "index": "31",
+    "timestamp": "00:00:56,390 --> 00:00:58,625",
+    "start": 56390,
+    "end": 58625
+  },
+  {
+    "text": "LISA: At least we're safe.",
+    "index": "32",
+    "timestamp": "00:00:58,625 --> 00:00:59,960",
+    "start": 58625,
+    "end": 59960
+  },
+  {
+    "text": "[CRASHING]",
+    "index": "33",
+    "timestamp": "00:00:59,960 --> 00:01:00,694",
+    "start": 59960,
+    "end": 60694
+  },
+  {
+    "text": "SIDESHOW BOB: Panda<br>begs to differ.",
+    "index": "34",
+    "timestamp": "00:01:00,694 --> 00:01:02,963",
+    "start": 60694,
+    "end": 62963
+  },
+  {
+    "text": "[CHILDISH SINGING]",
+    "index": "35",
+    "timestamp": "00:01:02,963 --> 00:01:04,932",
+    "start": 62963,
+    "end": 64932
+  },
+  {
+    "text": "Will you shut up.",
+    "index": "36",
+    "timestamp": "00:01:04,932 --> 00:01:07,534",
+    "start": 64932,
+    "end": 67534
+  },
+  {
+    "text": "Say wheeeeeee.",
+    "index": "37",
+    "timestamp": "00:01:07,534 --> 00:01:08,702",
+    "start": 67534,
+    "end": 68702
+  },
+  {
+    "text": "[SCREAMING]",
+    "index": "38",
+    "timestamp": "00:01:08,702 --> 00:01:10,804",
+    "start": 68702,
+    "end": 70804
+  },
+  {
+    "text": "[EXPLOSIONS]",
+    "index": "39",
+    "timestamp": "00:01:10,804 --> 00:01:14,141",
+    "start": 70804,
+    "end": 74141
+  },
+  {
+    "text": "HOMER: Alone at last.",
+    "index": "40",
+    "timestamp": "00:01:14,141 --> 00:01:15,309",
+    "start": 74141,
+    "end": 75309
+  },
+  {
+    "text": "MARGE: Bob's trying to<br>kill the kids.",
+    "index": "41",
+    "timestamp": "00:01:15,309 --> 00:01:16,910",
+    "start": 75309,
+    "end": 76910
+  },
+  {
+    "text": "HOMER: It just gets<br>better and better.",
+    "index": "42",
+    "timestamp": "00:01:16,910 --> 00:01:18,612",
+    "start": 76910,
+    "end": 78612
+  },
+  {
+    "text": "[SCREAMING]",
+    "index": "43",
+    "timestamp": "00:01:18,612 --> 00:01:21,915",
+    "start": 78612,
+    "end": 81915
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "44",
+    "timestamp": "00:01:21,915 --> 00:01:24,718",
+    "start": 81915,
+    "end": 84718
+  },
+  {
+    "text": "SIDESHOW BOB: Because I want<br>to be fair, a piece of advice.",
+    "index": "45",
+    "timestamp": "00:01:24,718 --> 00:01:27,054",
+    "start": 84718,
+    "end": 87054
+  },
+  {
+    "text": "Resist every temptation I place<br>in front of you.",
+    "index": "46",
+    "timestamp": "00:01:27,054 --> 00:01:30,157",
+    "start": 87054,
+    "end": 90157
+  },
+  {
+    "text": "HOMER: Oh, beer!",
+    "index": "47",
+    "timestamp": "00:01:30,157 --> 00:01:31,525",
+    "start": 90157,
+    "end": 91525
+  },
+  {
+    "text": "MARGE: Homer, it's a temptation.",
+    "index": "48",
+    "timestamp": "00:01:31,525 --> 00:01:33,193",
+    "start": 91525,
+    "end": 93193
+  },
+  {
+    "text": "HOMER: When did beer<br>hurt anybody?",
+    "index": "49",
+    "timestamp": "00:01:33,193 --> 00:01:34,695",
+    "start": 93193,
+    "end": 94695
+  },
+  {
+    "text": "Uh-oh.",
+    "index": "50",
+    "timestamp": "00:01:34,695 --> 00:01:35,829",
+    "start": 94695,
+    "end": 95829
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "51",
+    "timestamp": "00:01:35,829 --> 00:01:39,366",
+    "start": 95829,
+    "end": 99366
+  },
+  {
+    "text": "I hate chain reactions.",
+    "index": "52",
+    "timestamp": "00:01:39,366 --> 00:01:41,535",
+    "start": 99366,
+    "end": 101535
+  },
+  {
+    "text": "[SCREAMING]",
+    "index": "53",
+    "timestamp": "00:01:41,535 --> 00:01:44,037",
+    "start": 101535,
+    "end": 104037
+  },
+  {
+    "text": "SIDESHOW BOB: You foiled<br>my plans for the last time.",
+    "index": "54",
+    "timestamp": "00:01:45,572 --> 00:01:48,675",
+    "start": 105572,
+    "end": 108675
+  },
+  {
+    "text": "BART: You soiled your pants<br>for the last time?",
+    "index": "55",
+    "timestamp": "00:01:48,675 --> 00:01:50,877",
+    "start": 108675,
+    "end": 110877
+  },
+  {
+    "text": "Ha ha.",
+    "index": "56",
+    "timestamp": "00:01:50,877 --> 00:01:52,813",
+    "start": 110877,
+    "end": 112813
+  },
+  {
+    "text": "LISA: We'll save you.",
+    "index": "57",
+    "timestamp": "00:01:52,813 --> 00:01:53,880",
+    "start": 112813,
+    "end": 113880
+  },
+  {
+    "text": "Onward, convenient whale.",
+    "index": "58",
+    "timestamp": "00:01:53,880 --> 00:01:55,716",
+    "start": 113880,
+    "end": 115716
+  },
+  {
+    "text": "HOMER: Maybe that exit sign<br>leads to an exit.",
+    "index": "59",
+    "timestamp": "00:01:55,716 --> 00:01:58,118",
+    "start": 115716,
+    "end": 118118
+  },
+  {
+    "text": "[EXPLOSION]",
+    "index": "60",
+    "timestamp": "00:01:58,118 --> 00:01:59,052",
+    "start": 118118,
+    "end": 119052
+  },
+  {
+    "text": "[SCREAMING]",
+    "index": "61",
+    "timestamp": "00:01:59,052 --> 00:02:00,454",
+    "start": 119052,
+    "end": 120454
+  },
+  {
+    "text": "Marge, stay away from the ramp.",
+    "index": "62",
+    "timestamp": "00:02:00,454 --> 00:02:02,055",
+    "start": 120454,
+    "end": 122055
+  },
+  {
+    "text": "MARGE: What?",
+    "index": "63",
+    "timestamp": "00:02:02,055 --> 00:02:02,723",
+    "start": 122055,
+    "end": 122723
+  },
+  {
+    "text": "[GROANING]",
+    "index": "64",
+    "timestamp": "00:02:02,723 --> 00:02:05,625",
+    "start": 122723,
+    "end": 125625
+  },
+  {
+    "text": "HOMER: D'oh!",
+    "index": "65",
+    "timestamp": "00:02:05,625 --> 00:02:07,327",
+    "start": 125625,
+    "end": 127327
+  },
+  {
+    "text": "I mean ramps.",
+    "index": "66",
+    "timestamp": "00:02:07,327 --> 00:02:09,529",
+    "start": 127327,
+    "end": 129529
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "67",
+    "timestamp": "00:02:09,529 --> 00:02:13,233",
+    "start": 129529,
+    "end": 133233
+  },
+  {
+    "text": "SIDESHOW BOB: Now for the<br>unkindest cut of all.",
+    "index": "68",
+    "timestamp": "00:02:13,233 --> 00:02:16,103",
+    "start": 133233,
+    "end": 136103
+  },
+  {
+    "text": "[SCREAMING]",
+    "index": "69",
+    "timestamp": "00:02:16,103 --> 00:02:18,038",
+    "start": 136103,
+    "end": 138038
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "70",
+    "timestamp": "00:02:18,038 --> 00:02:20,640",
+    "start": 138038,
+    "end": 140640
+  },
+  {
+    "text": "[EVIL LAUGHTER]",
+    "index": "71",
+    "timestamp": "00:02:20,640 --> 00:02:21,975",
+    "start": 140640,
+    "end": 141975
+  },
+  {
+    "text": "[MAGGIE GIGGLING]",
+    "index": "72",
+    "timestamp": "00:02:21,975 --> 00:02:23,343",
+    "start": 141975,
+    "end": 143343
+  },
+  {
+    "text": "LISA: Look what the radiation<br>did to Maggie!",
+    "index": "73",
+    "timestamp": "00:02:23,343 --> 00:02:26,179",
+    "start": 143343,
+    "end": 146179
+  },
+  {
+    "text": "HOMER: Boy, they grow up<br>so fast.",
+    "index": "74",
+    "timestamp": "00:02:26,179 --> 00:02:27,948",
+    "start": 146179,
+    "end": 147948
+  },
+  {
+    "text": "SIDESHOW BOB: Oof,<br>ta-ta, tourists.",
+    "index": "75",
+    "timestamp": "00:02:27,948 --> 00:02:30,317",
+    "start": 147948,
+    "end": 150317
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "76",
+    "timestamp": "00:02:30,317 --> 00:02:32,152",
+    "start": 150317,
+    "end": 152152
+  },
+  {
+    "text": "FRINK: Do not fear,<br>a nerd is here.",
+    "index": "77",
+    "timestamp": "00:02:32,152 --> 00:02:34,621",
+    "start": 152152,
+    "end": 154621
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "78",
+    "timestamp": "00:02:34,621 --> 00:02:37,124",
+    "start": 154621,
+    "end": 157124
+  },
+  {
+    "text": "SIDESHOW BOB: I'll give you<br>back your pacifier,",
+    "index": "79",
+    "timestamp": "00:02:38,725 --> 00:02:40,394",
+    "start": 158725,
+    "end": 160394
+  },
+  {
+    "text": "if you destroy Springfield.",
+    "index": "80",
+    "timestamp": "00:02:40,394 --> 00:02:43,096",
+    "start": 160394,
+    "end": 163096
+  },
+  {
+    "text": "[CRASHING]",
+    "index": "81",
+    "timestamp": "00:02:43,096 --> 00:02:44,998",
+    "start": 163096,
+    "end": 164998
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "82",
+    "timestamp": "00:02:44,998 --> 00:02:46,666",
+    "start": 164998,
+    "end": 166666
+  },
+  {
+    "text": "WIGGUM: The baby is wet and<br>presumed cranky.",
+    "index": "83",
+    "timestamp": "00:02:46,666 --> 00:02:48,468",
+    "start": 166666,
+    "end": 168468
+  },
+  {
+    "text": "HOMER: I'm not going to<br>change that diaper.",
+    "index": "84",
+    "timestamp": "00:02:48,468 --> 00:02:50,170",
+    "start": 168468,
+    "end": 170170
+  },
+  {
+    "text": "MARGE: Mommy's coming,<br>giant Maggie.",
+    "index": "85",
+    "timestamp": "00:02:50,170 --> 00:02:52,139",
+    "start": 170170,
+    "end": 172139
+  },
+  {
+    "text": "BART: Mega Maggie,<br>destroy something!",
+    "index": "86",
+    "timestamp": "00:02:52,139 --> 00:02:54,775",
+    "start": 172139,
+    "end": 174775
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "87",
+    "timestamp": "00:02:54,775 --> 00:02:57,210",
+    "start": 174775,
+    "end": 177210
+  },
+  {
+    "text": "[SCREAMING]",
+    "index": "88",
+    "timestamp": "00:02:57,210 --> 00:03:00,347",
+    "start": 177210,
+    "end": 180347
+  },
+  {
+    "text": "MARGE: Get away from my baby.",
+    "index": "89",
+    "timestamp": "00:03:00,347 --> 00:03:02,215",
+    "start": 180347,
+    "end": 182215
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "90",
+    "timestamp": "00:03:02,215 --> 00:03:04,151",
+    "start": 182215,
+    "end": 184151
+  },
+  {
+    "text": "[MAGGIE GIGGLING]",
+    "index": "91",
+    "timestamp": "00:03:04,151 --> 00:03:06,086",
+    "start": 184151,
+    "end": 186086
+  },
+  {
+    "text": "LISA: Maggie, that's<br>not a pacifier.",
+    "index": "92",
+    "timestamp": "00:03:06,086 --> 00:03:07,487",
+    "start": 186086,
+    "end": 187487
+  },
+  {
+    "text": "MARGE: Get those tourists out<br>of your mouth.",
+    "index": "93",
+    "timestamp": "00:03:07,487 --> 00:03:09,289",
+    "start": 187487,
+    "end": 189289
+  },
+  {
+    "text": "You don't know where<br>they've been.",
+    "index": "94",
+    "timestamp": "00:03:09,289 --> 00:03:10,490",
+    "start": 189289,
+    "end": 190490
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "95",
+    "timestamp": "00:03:10,490 --> 00:03:12,726",
+    "start": 190490,
+    "end": 192726
+  },
+  {
+    "text": "[BURPING]",
+    "index": "96",
+    "timestamp": "00:03:12,726 --> 00:03:14,494",
+    "start": 192726,
+    "end": 194494
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "97",
+    "timestamp": "00:03:14,494 --> 00:03:20,767",
+    "start": 194494,
+    "end": 200767
+  },
+  {
+    "text": "HOMER: Home, sweet -- D 'oh!",
+    "index": "98",
+    "timestamp": "00:03:20,767 --> 00:03:23,670",
+    "start": 200767,
+    "end": 203670
+  },
+  {
+    "text": "KANG & KODOS: Foolish<br>earthlings, don't you know",
+    "index": "99",
+    "timestamp": "00:03:23,670 --> 00:03:25,038",
+    "start": 203670,
+    "end": 205038
+  },
+  {
+    "text": "all rides must end<br>near the gift shop?",
+    "index": "100",
+    "timestamp": "00:03:25,038 --> 00:03:27,507",
+    "start": 205038,
+    "end": 207507
+  },
+  {
+    "text": "[SCREAMING]",
+    "index": "101",
+    "timestamp": "00:03:27,507 --> 00:03:29,276",
+    "start": 207507,
+    "end": 209276
+  },
+  {
+    "text": "HOMER: My bosoms are<br>slapping my face.",
+    "index": "102",
+    "timestamp": "00:03:29,276 --> 00:03:30,944",
+    "start": 209276,
+    "end": 210944
+  },
+  {
+    "text": "LISA: Thanks for nothing,<br>gravity.",
+    "index": "103",
+    "timestamp": "00:03:30,944 --> 00:03:32,646",
+    "start": 210944,
+    "end": 212646
+  },
+  {
+    "text": "RALPH: I'm a baby bird!",
+    "index": "104",
+    "timestamp": "00:03:32,646 --> 00:03:34,314",
+    "start": 212646,
+    "end": 214314
+  },
+  {
+    "text": "MARGE: This must be the part<br>where they take your picture.",
+    "index": "105",
+    "timestamp": "00:03:34,314 --> 00:03:36,149",
+    "start": 214314,
+    "end": 216149
+  },
+  {
+    "text": "Okay, smile.",
+    "index": "106",
+    "timestamp": "00:03:36,149 --> 00:03:38,218",
+    "start": 216149,
+    "end": 218218
+  },
+  {
+    "text": "[SCREAMING]",
+    "index": "107",
+    "timestamp": "00:03:38,218 --> 00:03:41,488",
+    "start": 218218,
+    "end": 221488
+  },
+  {
+    "text": "SIDESHOW BOB: I've still got<br>five seconds to kill somebody.",
+    "index": "108",
+    "timestamp": "00:03:41,488 --> 00:03:43,457",
+    "start": 221488,
+    "end": 223457
+  },
+  {
+    "text": "Hello, folks.",
+    "index": "109",
+    "timestamp": "00:03:43,457 --> 00:03:45,826",
+    "start": 223457,
+    "end": 225826
+  },
+  {
+    "text": "HOMER: What a horrible<br>nightmare.",
+    "index": "110",
+    "timestamp": "00:03:45,826 --> 00:03:46,760",
+    "start": 225826,
+    "end": 226760
+  },
+  {
+    "text": "Thank god this ride is over.",
+    "index": "111",
+    "timestamp": "00:03:46,760 --> 00:03:48,929",
+    "start": 226760,
+    "end": 228929
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "112",
+    "timestamp": "00:03:48,929 --> 00:03:51,164",
+    "start": 228929,
+    "end": 231164
+  },
+  {
+    "text": "[GRINDING SOUND]",
+    "index": "113",
+    "timestamp": "00:03:51,164 --> 00:03:53,733",
+    "start": 231164,
+    "end": 233733
+  }
+]

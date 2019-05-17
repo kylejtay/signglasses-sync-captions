@@ -31,38 +31,40 @@ public class MainActivity extends Activity implements IACRCloudListener {
 
 	private ACRCloudClient mClient;
 	private ACRCloudConfig mConfig;
-	
+
 	public TextView mResult;
-	
+
 	private boolean mProcessing = false;
 	private boolean initState = false;
-	
+
 	private String path = "";
 
-	private long startTime = 0; 
+	private long startTime = 0;
 	private long stopTime = 0;
 	private volatile int time = 0;
+	private Timer timer = new Timer();
 
 	protected Context mContext;
 	private Context context;
-	
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		// path = "/storage/external/acrcloud/model";	
-		path = "/storage/extSdCard/acrcloud/model";	
+		path = "/storage/external/acrcloud/model"; // VUZIX
+		// path = "/storage/extSdCard/acrcloud/model";
+		// path = "/storage/sdcard1/acrcloud/model";
 		Log.d("file path", path);
 
 		Log.d("database path", path);
-		
+
 		File file = new File(path);
 		if(!file.exists()){
 			file.mkdirs();
-		}		
-			
-		mResult = (TextView) findViewById(R.id.result);			
+		}
+
+		mResult = (TextView) findViewById(R.id.result);
 
 		 this.mConfig = new ACRCloudConfig();
 		 this.mConfig.acrcloudListener = this;
@@ -70,8 +72,8 @@ public class MainActivity extends Activity implements IACRCloudListener {
 		 this.mConfig.context = this;
 		 // this.mConfig.host = "identify-us-west-2.acrcloud.com";
 		 this.mConfig.dbPath = path; // offline db path, you can change it with other path which this app can access.
-		 this.mConfig.accessKey = "babf11b4ea9745db5d96a48a5a41728c";
-		 this.mConfig.accessSecret = "tAzjkWfPULuOxVMpH8NkN0wgx7snIpqbOcjcocAE";
+		 this.mConfig.accessKey = "3ccefd69b797489a547bdb2a92434c4b";
+		 this.mConfig.accessSecret = "1pfwS6kxGx4PLlhccdzTMiqVnGPxU1uU6WV4zbUt";
 		 // this.mConfig.protocol = ACRCloudConfig.ACRCloudNetworkProtocol.PROTOCOL_HTTP; // PROTOCOL_HTTPS
 		// this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_REMOTE;
 		 this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_LOCAL;
@@ -84,27 +86,28 @@ public class MainActivity extends Activity implements IACRCloudListener {
 		 if (this.initState) {
 		     this.mClient.startPreRecord(3000); //start prerecord, you can call "this.mClient.stopPreRecord()" to stop prerecord.
 		 }
-		 Typeface tf = Typeface.createFromAsset(getAssets(), "fonts/roboto.ttf");
-		 mResult.setTypeface(tf);
-		 mResult.setText("Syncing captions with video...");
+		 mResult.setText("Syncing captions with attraction...");
 
 		 start();
 	}
 
-	public void getCaptions(final int offset, final String id) {		
-		if (time == 0) {
-			Timer timer = new Timer();	
-			timer.scheduleAtFixedRate(new TimerTask(){
-			    @Override
-			    public void run(){
-			    	showCaptions(time, id);
-	       		time += 300;
-			    }		    
-			},0,300);
+	public void getCaptions(final int offset, final String id) {
+		Log.d("ID NEW: ", id);
+		timer.cancel();
+		timer = new Timer();
+		timer.scheduleAtFixedRate(new TimerTask(){
+		    @Override
+		    public void run(){
+		    	showCaptions(time, id);
+       		time += 300;
+		    }
+		},0,300);
+
+		if (time < (offset - 250) || time > (offset + 250)){
+			timer.cancel();
+			time = offset;
+			getCaptions(offset, id);
 		}
-		if (time < (offset - 500) || time > (offset + 500)){
-			time = offset;	
-		}		
 	}
 
 	public void showCaptions(final int offset, final String id){
@@ -140,10 +143,10 @@ public class MainActivity extends Activity implements IACRCloudListener {
 					runOnUiThread(new Runnable() {
 				    @Override
 				    public void run() {
-				    	mResult.setText(Html.fromHtml(text));				    	
+				    	mResult.setText(Html.fromHtml(text));
 				    }
 					});
-				}     	
+				}
 		 }
 
 		 if(found == 0){
@@ -153,23 +156,23 @@ public class MainActivity extends Activity implements IACRCloudListener {
 		     	mResult.setText("");
 		     }
 		 	});
-		 }	
+		 }
 		} catch (JSONException e) {
 		   //some exception handler code.
-		} 	
+		}
 	}
 
 	public void setText(final String string){
-		
+
 	}
 
-	
+
 	public void start() {
         if (!this.initState) {
             Toast.makeText(this, "init error", Toast.LENGTH_SHORT).show();
             return;
         }
-		
+
 		if (!mProcessing) {
 			mProcessing = true;
 			if (this.mClient == null || !this.mClient.startRecognize()) {
@@ -188,18 +191,18 @@ public class MainActivity extends Activity implements IACRCloudListener {
 
 		stopTime = System.currentTimeMillis();
 	}
-	
+
 	protected void cancel() {
 		if (mProcessing && this.mClient != null) {
 			mProcessing = false;
 			this.mClient.cancel();
-		} 		
+		}
 	}
 
 	public void onVolumeChanged(double volume) {
 		long time = (System.currentTimeMillis() - startTime) / 1000;
 	}
-	
+
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
@@ -209,14 +212,14 @@ public class MainActivity extends Activity implements IACRCloudListener {
 
     // Old api
 	@Override
-	public void onResult(String result) {	
+	public void onResult(String result) {
 		if (this.mClient != null) {
 			// this.mClient.cancel();
 			mProcessing = false;
-		} 
-		
+		}
+
 		String tres = "\n";
-		
+
 		try {
 		    JSONObject j = new JSONObject(result);
 		    JSONObject j1 = j.getJSONObject("status");
@@ -227,7 +230,7 @@ public class MainActivity extends Activity implements IACRCloudListener {
 		    	if (metadata.has("custom_files")) {
 		    		JSONArray musics = metadata.getJSONArray("custom_files");
 		    		for(int i=0; i<musics.length(); i++) {
-		    			JSONObject tt = (JSONObject) musics.get(i); 
+		    			JSONObject tt = (JSONObject) musics.get(i);
 		    			String offset = tt.getString("play_offset_ms");
 		    			String id = tt.getString("id");
 		    			int offset_int = Integer.parseInt(offset);
@@ -245,15 +248,15 @@ public class MainActivity extends Activity implements IACRCloudListener {
 		    e.printStackTrace();
 		}
 	}
-	
-	@Override  
-    protected void onDestroy() {  
-        super.onDestroy();  
+
+	@Override
+    protected void onDestroy() {
+        super.onDestroy();
         Log.e("MainActivity", "release");
         if (this.mClient != null) {
         	this.mClient.release();
         	this.initState = false;
         	this.mClient = null;
         }
-    } 
+    }
 }
