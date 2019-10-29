@@ -1,0 +1,86 @@
+[
+  {
+    "text": ">> Hey, Max.",
+    "index": "1",
+    "timestamp": "00:00:10,841 --> 00:00:12,142",
+    "start": 10841,
+    "end": 12142
+  },
+  {
+    "text": ">> Hey, Gidget.",
+    "index": "2",
+    "timestamp": "00:00:12,142 --> 00:00:13,243",
+    "start": 12142,
+    "end": 13243
+  },
+  {
+    "text": ">> Any plans today?",
+    "index": "3",
+    "timestamp": "00:00:13,243 --> 00:00:14,945",
+    "start": 13243,
+    "end": 14945
+  },
+  {
+    "text": ">> Yes, big, big stuff today,<br>Gidget.",
+    "index": "4",
+    "timestamp": "00:00:14,945 --> 00:00:17,447",
+    "start": 14945,
+    "end": 17447
+  },
+  {
+    "text": "I got big plans.",
+    "index": "5",
+    "timestamp": "00:00:17,447 --> 00:00:18,248",
+    "start": 17447,
+    "end": 18248
+  },
+  {
+    "text": "I'm going to sit here",
+    "index": "6",
+    "timestamp": "00:00:18,248 --> 00:00:18,982",
+    "start": 18248,
+    "end": 18982
+  },
+  {
+    "text": "and I'm going to wait for<br>Katie to come back.",
+    "index": "7",
+    "timestamp": "00:00:18,982 --> 00:00:21,151",
+    "start": 18982,
+    "end": 21151
+  },
+  {
+    "text": ">> Oh, that sounds exciting.",
+    "index": "8",
+    "timestamp": "00:00:21,151 --> 00:00:22,619",
+    "start": 21151,
+    "end": 22619
+  },
+  {
+    "text": "Well, I won't interrupt.",
+    "index": "9",
+    "timestamp": "00:00:22,619 --> 00:00:24,521",
+    "start": 22619,
+    "end": 24521
+  },
+  {
+    "text": "I've got a very busy day, too.",
+    "index": "10",
+    "timestamp": "00:00:24,521 --> 00:00:27,324",
+    "start": 24521,
+    "end": 27324
+  },
+  {
+    "text": ">> Hey, Chloe, do you ever<br>wonder where they go",
+    "index": "11",
+    "timestamp": "00:00:27,324 --> 00:00:29,860",
+    "start": 27324,
+    "end": 29860
+  },
+  {
+    "text": "during the day?",
+    "index": "12",
+    "timestamp": "00:00:29,860 --> 00:00:31,194",
+    "start": 29860,
+    "end": 31194
+  }
+]

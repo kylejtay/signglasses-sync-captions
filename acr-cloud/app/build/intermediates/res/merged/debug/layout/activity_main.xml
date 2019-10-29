@@ -48,12 +48,13 @@
         <TextView
             android:id="@+id/result"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="fill_parent"
             android:textColor="#FFFFFF"
-            android:textSize="18sp"
-            android:paddingLeft="100dip"
-            android:gravity="top|center"
-            android:layout_gravity="top|center" />
+            android:textSize="17sp"
+            android:paddingLeft="50dip"
+            android:paddingRight="20dip"
+            android:gravity="bottom|center"
+            android:layout_gravity="bottom|center" />
 
     </LinearLayout>
 </LinearLayout>

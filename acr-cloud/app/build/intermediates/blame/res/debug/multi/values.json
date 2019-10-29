@@ -290,9 +290,9 @@
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 158,
+                        "startOffset": 155,
                         "endColumn": 52,
-                        "endOffset": 206
+                        "endOffset": 203
                     }
                 }
             },
@@ -301,8 +301,8 @@
                     "startLine": 5,
                     "startColumn": 4,
                     "startOffset": 222,
-                    "endColumn": 48,
-                    "endOffset": 266
+                    "endColumn": 45,
+                    "endOffset": 263
                 },
                 "from": {
                     "file": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/src/main/res/values/strings.xml",
@@ -310,8 +310,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 56,
-                        "endColumn": 48,
-                        "endOffset": 100
+                        "endColumn": 45,
+                        "endOffset": 97
                     }
                 }
             },
@@ -319,18 +319,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 271,
+                    "startOffset": 268,
                     "endColumn": 41,
-                    "endOffset": 308
+                    "endOffset": 305
                 },
                 "from": {
                     "file": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 256,
+                        "startOffset": 249,
                         "endColumn": 41,
-                        "endOffset": 293
+                        "endOffset": 286
                     }
                 }
             },
@@ -338,18 +338,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 313,
+                    "startOffset": 310,
                     "endColumn": 52,
-                    "endOffset": 361
+                    "endOffset": 358
                 },
                 "from": {
                     "file": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 105,
+                        "startOffset": 102,
                         "endColumn": 52,
-                        "endOffset": 153
+                        "endOffset": 150
                     }
                 }
             },
@@ -357,18 +357,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 366,
+                    "startOffset": 363,
                     "endColumn": 47,
-                    "endOffset": 409
+                    "endOffset": 406
                 },
                 "from": {
                     "file": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 366,
+                        "startOffset": 359,
                         "endColumn": 47,
-                        "endOffset": 409
+                        "endOffset": 402
                     }
                 }
             },
@@ -376,18 +376,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 414,
+                    "startOffset": 411,
                     "endColumn": 39,
-                    "endOffset": 449
+                    "endOffset": 446
                 },
                 "from": {
                     "file": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 216,
+                        "startOffset": 209,
                         "endColumn": 39,
-                        "endOffset": 251
+                        "endOffset": 244
                     }
                 }
             },
@@ -395,18 +395,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 454,
+                    "startOffset": 451,
                     "endColumn": 67,
-                    "endOffset": 517
+                    "endOffset": 514
                 },
                 "from": {
                     "file": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 298,
+                        "startOffset": 291,
                         "endColumn": 67,
-                        "endOffset": 361
+                        "endOffset": 354
                     }
                 }
             },
@@ -414,18 +414,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 522,
+                    "startOffset": 519,
                     "endColumn": 42,
-                    "endOffset": 560
+                    "endOffset": 557
                 },
                 "from": {
                     "file": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 414,
+                        "startOffset": 407,
                         "endColumn": 42,
-                        "endOffset": 452
+                        "endOffset": 445
                     }
                 }
             },
@@ -433,10 +433,10 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 565,
+                    "startOffset": 562,
                     "endLine": 18,
                     "endColumn": 12,
-                    "endOffset": 851
+                    "endOffset": 848
                 },
                 "from": {
                     "file": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/src/main/res/values/styles.xml",
@@ -454,10 +454,10 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 856,
+                    "startOffset": 853,
                     "endLine": 21,
                     "endColumn": 12,
-                    "endOffset": 1011
+                    "endOffset": 1008
                 },
                 "from": {
                     "file": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/src/main/res/values/styles.xml",

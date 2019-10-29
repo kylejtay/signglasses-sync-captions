@@ -3,7 +3,7 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <string name="action_settings">Settings</string>
-    <string name="app_name">ACRCloudSDK</string>
+    <string name="app_name">Captions</string>
     <string name="cancel">cancel</string>
     <string name="hello_world">Hello world!</string>
     <string name="recording">recording</string>

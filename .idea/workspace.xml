@@ -2,50 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c7755ff-c07e-4256-b45b-8174d1b06625" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ACRCloudSDKDemo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ACRCloudSDKDemo/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ACRCloudSDKDemo/app/app.iml" afterPath="$PROJECT_DIR$/ACRCloudSDKDemo/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/acr-cloud/.gradle/2.8/taskArtifacts/cache.properties.lock" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/acr-cloud/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/acr-cloud/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/acr-cloud/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/acr-cloud/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/acr-cloud/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/.idea/libraries/Gradle____local_aars____Users_kyle_Develop_signglasses_movies_ACRCloudSDKDemo_app_libs_acrcloud_android_sdk_1_5_7_6_jar_unspecified_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/.idea/misc.xml" afterPath="$PROJECT_DIR$/acr-cloud/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/.idea/modules.xml" afterPath="$PROJECT_DIR$/acr-cloud/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/.idea/workspace.xml" afterPath="$PROJECT_DIR$/acr-cloud/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/app.iml" afterPath="$PROJECT_DIR$/acr-cloud/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/assets/debug/acrcloud/afp.df" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/assets/debug/acrcloud/afp.df" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/assets/debug/acrcloud/afp.iv" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/assets/debug/acrcloud/afp.iv" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/multi/values-zh.json" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/multi/values-zh.json" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/multi/values.json" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/layout.json" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/blame/res/debug/single/menu.json" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/classes/debug/com/acrcloud/rec/demo/MainActivity$1.class" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/classes/debug/com/acrcloud/rec/demo/MainActivity$1.class" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/classes/debug/com/acrcloud/rec/demo/MainActivity$2.class" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/classes/debug/com/acrcloud/rec/demo/MainActivity$2.class" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/classes/debug/com/acrcloud/rec/demo/MainActivity$3.class" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/classes/debug/com/acrcloud/rec/demo/MainActivity$3.class" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/classes/debug/com/acrcloud/rec/demo/MainActivity.class" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/classes/debug/com/acrcloud/rec/demo/MainActivity.class" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/pre-dexed/debug/acrcloud-android-sdk-1.5.7.6_0bfc8d94728c27dcfc89395fdec8e8220f3a87d9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/pre-dexed/debug/debug_a5c7a017f55431d53043af0f5912ef260a4c85f9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_4208cd0159b151a1e38e550ef4b08141bb763a24.jar" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_4208cd0159b151a1e38e550ef4b08141bb763a24.jar" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/res/merged/debug/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/res/merged/debug/values/values.xml" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/res/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/acr-cloud/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/acr-cloud/app/build/outputs/apk/app-debug-unaligned.apk" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/acr-cloud/app/build/outputs/apk/app-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/acr-cloud/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/src/main/assets/acrcloud/afp.df" afterPath="$PROJECT_DIR$/acr-cloud/app/src/main/assets/acrcloud/afp.df" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/src/main/assets/acrcloud/afp.iv" afterPath="$PROJECT_DIR$/acr-cloud/app/src/main/assets/acrcloud/afp.iv" />
-      <change beforePath="$PROJECT_DIR$/acr-cloud/app/src/main/java/com/acrcloud/rec/demo/MainActivity.java" afterPath="$PROJECT_DIR$/acr-cloud/app/src/main/java/com/acrcloud/rec/demo/MainActivity.java" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/acr-cloud/app/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/acr-cloud/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/acr-cloud/app/src/main/res/values/strings.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,10 +39,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="1417" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -88,6 +58,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -99,15 +72,18 @@
             <path>
               <item name="signglasses-movies" type="b2602c69:ProjectViewProjectNode" />
               <item name="signglasses-movies" type="462c0819:PsiDirectoryNode" />
-              <item name="acr-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ACRCloudSDKDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="signglasses-movies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="signglasses-movies" type="462c0819:PsiDirectoryNode" />
+              <item name="ACRCloudSDKDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,20 +207,30 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="23" width="1280" height="1417" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -255,7 +241,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>

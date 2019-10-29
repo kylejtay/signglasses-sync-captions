@@ -1,0 +1,4237 @@
+[
+  {
+    "text": "[MUSIC]",
+    "index": "1",
+    "timestamp": "00:00:03,503 --> 00:00:18,085",
+    "start": 3503,
+    "end": 18085
+  },
+  {
+    "text": ">> You are now entering<br>the Super Bowl Theater,",
+    "index": "2",
+    "timestamp": "00:00:18,085 --> 00:00:20,420",
+    "start": 18085,
+    "end": 20420
+  },
+  {
+    "text": "where you'll soon be surrounded<br>by the sights and sounds",
+    "index": "3",
+    "timestamp": "00:00:20,420 --> 00:00:23,390",
+    "start": 20420,
+    "end": 23390
+  },
+  {
+    "text": "of the NFL season.",
+    "index": "4",
+    "timestamp": "00:00:23,390 --> 00:00:25,959",
+    "start": 23390,
+    "end": 25959
+  },
+  {
+    "text": "Please move to the end of<br>each row and be seated.",
+    "index": "5",
+    "timestamp": "00:00:25,959 --> 00:00:29,296",
+    "start": 25959,
+    "end": 29296
+  },
+  {
+    "text": ">> Hey, sit down, relax.",
+    "index": "6",
+    "timestamp": "00:00:29,296 --> 00:00:31,198",
+    "start": 29296,
+    "end": 31198
+  },
+  {
+    "text": ">> Sit down on it.",
+    "index": "7",
+    "timestamp": "00:00:31,198 --> 00:00:32,232",
+    "start": 31198,
+    "end": 32232
+  },
+  {
+    "text": ">> You can sit down.",
+    "index": "8",
+    "timestamp": "00:00:32,232 --> 00:00:33,233",
+    "start": 32232,
+    "end": 33233
+  },
+  {
+    "text": ">> \"The Road to the Super<br>Bowl\" will begin in",
+    "index": "9",
+    "timestamp": "00:00:33,233 --> 00:00:35,235",
+    "start": 33233,
+    "end": 35235
+  },
+  {
+    "text": "just under a minute and a half.",
+    "index": "10",
+    "timestamp": "00:00:35,235 --> 00:00:38,105",
+    "start": 35235,
+    "end": 38105
+  },
+  {
+    "text": "32 teams vying for a prize.",
+    "index": "11",
+    "timestamp": "00:00:38,105 --> 00:00:41,475",
+    "start": 38105,
+    "end": 41475
+  },
+  {
+    "text": "Only one can win.",
+    "index": "12",
+    "timestamp": "00:00:41,475 --> 00:00:43,644",
+    "start": 41475,
+    "end": 43644
+  },
+  {
+    "text": "So please take your seats.",
+    "index": "13",
+    "timestamp": "00:00:43,644 --> 00:00:45,779",
+    "start": 43644,
+    "end": 45779
+  },
+  {
+    "text": ">> All you gotta do is<br>exactly what got us here.",
+    "index": "14",
+    "timestamp": "00:00:45,779 --> 00:00:48,749",
+    "start": 45779,
+    "end": 48749
+  },
+  {
+    "text": "Remember why we play this game.",
+    "index": "15",
+    "timestamp": "00:00:48,749 --> 00:00:50,684",
+    "start": 48749,
+    "end": 50684
+  },
+  {
+    "text": ">> Play for something bigger<br>than yourselves today, man.",
+    "index": "16",
+    "timestamp": "00:00:50,684 --> 00:00:52,619",
+    "start": 50684,
+    "end": 52619
+  },
+  {
+    "text": "Put it all on the line, baby.",
+    "index": "17",
+    "timestamp": "00:00:52,619 --> 00:00:53,820",
+    "start": 52619,
+    "end": 53820
+  },
+  {
+    "text": "Let's light up the<br>city tonight, man.",
+    "index": "18",
+    "timestamp": "00:00:53,820 --> 00:00:55,489",
+    "start": 53820,
+    "end": 55489
+  },
+  {
+    "text": "Let's go.",
+    "index": "19",
+    "timestamp": "00:00:55,489 --> 00:00:56,390",
+    "start": 55489,
+    "end": 56390
+  },
+  {
+    "text": ">> I'm going to give<br>you everything I got.",
+    "index": "20",
+    "timestamp": "00:00:56,390 --> 00:00:58,025",
+    "start": 56390,
+    "end": 58025
+  },
+  {
+    "text": "You give me the same.",
+    "index": "21",
+    "timestamp": "00:00:58,025 --> 00:00:59,159",
+    "start": 58025,
+    "end": 59159
+  },
+  {
+    "text": ">> I like our team.",
+    "index": "22",
+    "timestamp": "00:00:59,159 --> 00:01:00,360",
+    "start": 59159,
+    "end": 60360
+  },
+  {
+    "text": "I like who we are.",
+    "index": "23",
+    "timestamp": "00:01:00,360 --> 00:01:01,428",
+    "start": 60360,
+    "end": 61428
+  },
+  {
+    "text": "I like the stuff we're made of.",
+    "index": "24",
+    "timestamp": "00:01:01,428 --> 00:01:02,863",
+    "start": 61428,
+    "end": 62863
+  },
+  {
+    "text": "I like to work out.",
+    "index": "25",
+    "timestamp": "00:01:02,863 --> 00:01:04,131",
+    "start": 62863,
+    "end": 64131
+  },
+  {
+    "text": ">> All season long, we<br>played, we competed,",
+    "index": "26",
+    "timestamp": "00:01:04,131 --> 00:01:07,034",
+    "start": 64131,
+    "end": 67034
+  },
+  {
+    "text": "and tonight, we are lethal.",
+    "index": "27",
+    "timestamp": "00:01:07,034 --> 00:01:08,936",
+    "start": 67034,
+    "end": 68936
+  },
+  {
+    "text": ">> One, two, three -- win!",
+    "index": "28",
+    "timestamp": "00:01:08,936 --> 00:01:10,170",
+    "start": 68936,
+    "end": 70170
+  },
+  {
+    "text": ">> I got you<br>whenever you need me.",
+    "index": "29",
+    "timestamp": "00:01:10,170 --> 00:01:11,672",
+    "start": 70170,
+    "end": 71672
+  },
+  {
+    "text": ">> You are about to experience<br>pro football more intensely",
+    "index": "30",
+    "timestamp": "00:01:11,672 --> 00:01:14,975",
+    "start": 71672,
+    "end": 74975
+  },
+  {
+    "text": "than you've ever<br>thought possible.",
+    "index": "31",
+    "timestamp": "00:01:14,975 --> 00:01:17,210",
+    "start": 74975,
+    "end": 77210
+  },
+  {
+    "text": "The transition from regular<br>season to the Super Bowl",
+    "index": "32",
+    "timestamp": "00:01:17,210 --> 00:01:19,980",
+    "start": 77210,
+    "end": 79980
+  },
+  {
+    "text": "will take place during a smooth<br>180-degree rotation",
+    "index": "33",
+    "timestamp": "00:01:19,980 --> 00:01:24,084",
+    "start": 79980,
+    "end": 84084
+  },
+  {
+    "text": "of the seating platform.",
+    "index": "34",
+    "timestamp": "00:01:24,084 --> 00:01:26,219",
+    "start": 84084,
+    "end": 86219
+  },
+  {
+    "text": "For your safety,<br>please remain seated.",
+    "index": "35",
+    "timestamp": "00:01:26,219 --> 00:01:29,856",
+    "start": 86219,
+    "end": 89856
+  },
+  {
+    "text": "We also ask that you not place<br>your feet on the seats in",
+    "index": "36",
+    "timestamp": "00:01:29,856 --> 00:01:32,793",
+    "start": 89856,
+    "end": 92793
+  },
+  {
+    "text": "front of you, and refrain from<br>photography of any kind.",
+    "index": "37",
+    "timestamp": "00:01:32,793 --> 00:01:37,030",
+    "start": 92793,
+    "end": 97030
+  },
+  {
+    "text": "[JETS ROARING]",
+    "index": "38",
+    "timestamp": "00:01:38,598 --> 00:01:45,772",
+    "start": 98598,
+    "end": 105772
+  },
+  {
+    "text": ">> Whoo!",
+    "index": "39",
+    "timestamp": "00:01:45,772 --> 00:01:46,707",
+    "start": 105772,
+    "end": 106707
+  },
+  {
+    "text": ">> It all starts right here.",
+    "index": "40",
+    "timestamp": "00:01:46,707 --> 00:01:48,175",
+    "start": 106707,
+    "end": 108175
+  },
+  {
+    "text": ">> And now, the Pro Football<br>Hall of Fame is proud to present",
+    "index": "41",
+    "timestamp": "00:01:48,175 --> 00:01:52,746",
+    "start": 108175,
+    "end": 112746
+  },
+  {
+    "text": "\"The Road to the Super Bowl.\"",
+    "index": "42",
+    "timestamp": "00:01:54,815 --> 00:01:56,750",
+    "start": 114815,
+    "end": 116750
+  },
+  {
+    "text": ">> Yes, yes.",
+    "index": "43",
+    "timestamp": "00:01:56,750 --> 00:01:58,051",
+    "start": 116750,
+    "end": 118051
+  },
+  {
+    "text": ">> Make sure you got good seats.",
+    "index": "44",
+    "timestamp": "00:01:58,051 --> 00:01:59,086",
+    "start": 118051,
+    "end": 119086
+  },
+  {
+    "text": ">> I'll be right there.",
+    "index": "45",
+    "timestamp": "00:01:59,086 --> 00:01:59,920",
+    "start": 119086,
+    "end": 119920
+  },
+  {
+    "text": ">> Make sure you<br>got a good seat.",
+    "index": "46",
+    "timestamp": "00:01:59,920 --> 00:02:01,388",
+    "start": 119920,
+    "end": 121388
+  },
+  {
+    "text": "You're going to want to<br>be comfortable today.",
+    "index": "47",
+    "timestamp": "00:02:01,388 --> 00:02:03,256",
+    "start": 121388,
+    "end": 123256
+  },
+  {
+    "text": "Watch the show.",
+    "index": "48",
+    "timestamp": "00:02:03,256 --> 00:02:04,591",
+    "start": 123256,
+    "end": 124591
+  },
+  {
+    "text": ">> (Singing) This<br>little light of mine,",
+    "index": "49",
+    "timestamp": "00:02:05,625 --> 00:02:07,394",
+    "start": 125625,
+    "end": 127394
+  },
+  {
+    "text": "I'm gonna let it shine.",
+    "index": "50",
+    "timestamp": "00:02:07,394 --> 00:02:09,629",
+    "start": 127394,
+    "end": 129629
+  },
+  {
+    "text": "Hey, this little light of<br>mine, I'm gonna let it shine.",
+    "index": "51",
+    "timestamp": "00:02:09,629 --> 00:02:14,401",
+    "start": 129629,
+    "end": 134401
+  },
+  {
+    "text": "This little light of mine,<br>I'm gonna let it shine.",
+    "index": "52",
+    "timestamp": "00:02:14,401 --> 00:02:19,072",
+    "start": 134401,
+    "end": 139072
+  },
+  {
+    "text": "Let it shine, let it<br>shine, let it shine.",
+    "index": "53",
+    "timestamp": "00:02:19,072 --> 00:02:24,344",
+    "start": 139072,
+    "end": 144344
+  },
+  {
+    "text": "[CROWD CHEERING]",
+    "index": "54",
+    "timestamp": "00:02:24,344 --> 00:02:26,813",
+    "start": 144344,
+    "end": 146813
+  },
+  {
+    "text": ">> Let's go get it, baby.",
+    "index": "55",
+    "timestamp": "00:02:26,813 --> 00:02:27,447",
+    "start": 146813,
+    "end": 147447
+  },
+  {
+    "text": "Let's go do it, come on.",
+    "index": "56",
+    "timestamp": "00:02:27,447 --> 00:02:28,415",
+    "start": 147447,
+    "end": 148415
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "57",
+    "timestamp": "00:02:28,415 --> 00:02:30,550",
+    "start": 148415,
+    "end": 150550
+  },
+  {
+    "text": ">> And the snap<br>goes to Duke Johnson.",
+    "index": "58",
+    "timestamp": "00:02:30,550 --> 00:02:32,119",
+    "start": 150550,
+    "end": 152119
+  },
+  {
+    "text": "Then they flip it around,<br>then they throw it --",
+    "index": "59",
+    "timestamp": "00:02:32,119 --> 00:02:35,722",
+    "start": 152119,
+    "end": 155722
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "60",
+    "timestamp": "00:02:35,722 --> 00:02:37,591",
+    "start": 155722,
+    "end": 157591
+  },
+  {
+    "text": ">> Jets sweep, right side.",
+    "index": "61",
+    "timestamp": "00:02:37,591 --> 00:02:39,426",
+    "start": 157591,
+    "end": 159426
+  },
+  {
+    "text": ">> They hand it to --",
+    "index": "62",
+    "timestamp": "00:02:39,426 --> 00:02:40,093",
+    "start": 159426,
+    "end": 160093
+  },
+  {
+    "text": "They flip it back to Rosen.",
+    "index": "63",
+    "timestamp": "00:02:40,093 --> 00:02:41,795",
+    "start": 160093,
+    "end": 161795
+  },
+  {
+    "text": "He throws it down field.",
+    "index": "64",
+    "timestamp": "00:02:41,795 --> 00:02:43,730",
+    "start": 161795,
+    "end": 163730
+  },
+  {
+    "text": "To the end zone!",
+    "index": "65",
+    "timestamp": "00:02:44,498 --> 00:02:45,565",
+    "start": 164498,
+    "end": 165565
+  },
+  {
+    "text": ">> Yeah, baby!",
+    "index": "66",
+    "timestamp": "00:02:45,565 --> 00:02:46,733",
+    "start": 165565,
+    "end": 166733
+  },
+  {
+    "text": ">> My goodness,<br>this is a beast.",
+    "index": "67",
+    "timestamp": "00:02:46,733 --> 00:02:48,902",
+    "start": 166733,
+    "end": 168902
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "68",
+    "timestamp": "00:02:48,902 --> 00:02:56,977",
+    "start": 168902,
+    "end": 176977
+  },
+  {
+    "text": ">> He won't be stopped.",
+    "index": "69",
+    "timestamp": "00:02:56,977 --> 00:02:58,045",
+    "start": 176977,
+    "end": 178045
+  },
+  {
+    "text": "He couldn't be stopped.",
+    "index": "70",
+    "timestamp": "00:02:58,045 --> 00:02:59,613",
+    "start": 178045,
+    "end": 179613
+  },
+  {
+    "text": ">> 89 yards!",
+    "index": "71",
+    "timestamp": "00:02:59,613 --> 00:03:01,515",
+    "start": 179613,
+    "end": 181515
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "72",
+    "timestamp": "00:03:01,515 --> 00:03:04,084",
+    "start": 181515,
+    "end": 184084
+  },
+  {
+    "text": ">> Miraculous in Miami.",
+    "index": "73",
+    "timestamp": "00:03:04,084 --> 00:03:05,986",
+    "start": 184084,
+    "end": 185986
+  },
+  {
+    "text": ">> It's been a lot of<br>offense, and a lot of fun.",
+    "index": "74",
+    "timestamp": "00:03:05,986 --> 00:03:08,388",
+    "start": 185986,
+    "end": 188388
+  },
+  {
+    "text": ">> 35-0.",
+    "index": "75",
+    "timestamp": "00:03:08,388 --> 00:03:09,656",
+    "start": 188388,
+    "end": 189656
+  },
+  {
+    "text": ">> 37-37.",
+    "index": "76",
+    "timestamp": "00:03:09,656 --> 00:03:10,991",
+    "start": 189656,
+    "end": 190991
+  },
+  {
+    "text": ">>42-42, on a night<br>that L.A. will never forget.",
+    "index": "77",
+    "timestamp": "00:03:10,991 --> 00:03:16,697",
+    "start": 190991,
+    "end": 196697
+  },
+  {
+    "text": "The Rams 54-51.",
+    "index": "78",
+    "timestamp": "00:03:16,697 --> 00:03:20,333",
+    "start": 196697,
+    "end": 200333
+  },
+  {
+    "text": ">> Adam Vinatieri, the all-time<br>leader in points scored.",
+    "index": "79",
+    "timestamp": "00:03:20,333 --> 00:03:24,204",
+    "start": 200333,
+    "end": 204204
+  },
+  {
+    "text": ">> To the greatest of all time.",
+    "index": "80",
+    "timestamp": "00:03:24,204 --> 00:03:26,373",
+    "start": 204204,
+    "end": 206373
+  },
+  {
+    "text": ">> He was running for the<br>thousand-yard mark",
+    "index": "81",
+    "timestamp": "00:03:26,373 --> 00:03:28,208",
+    "start": 206373,
+    "end": 208208
+  },
+  {
+    "text": "for his career.",
+    "index": "82",
+    "timestamp": "00:03:28,208 --> 00:03:29,409",
+    "start": 208208,
+    "end": 209409
+  },
+  {
+    "text": ">> Drew Brees is the NFL's<br>all-time leading passer.",
+    "index": "83",
+    "timestamp": "00:03:29,409 --> 00:03:33,213",
+    "start": 209409,
+    "end": 213213
+  },
+  {
+    "text": ">> You can accomplish<br>anything in life",
+    "index": "84",
+    "timestamp": "00:03:33,213 --> 00:03:34,448",
+    "start": 213213,
+    "end": 214448
+  },
+  {
+    "text": "you're willing to<br>work for, right?",
+    "index": "85",
+    "timestamp": "00:03:34,448 --> 00:03:36,249",
+    "start": 214448,
+    "end": 216249
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "86",
+    "timestamp": "00:03:36,249 --> 00:03:37,584",
+    "start": 216249,
+    "end": 217584
+  },
+  {
+    "text": ">> When you guys can play<br>with each other like that,",
+    "index": "87",
+    "timestamp": "00:03:37,584 --> 00:03:39,519",
+    "start": 217584,
+    "end": 219519
+  },
+  {
+    "text": "and play with that type<br>of heart and character,",
+    "index": "88",
+    "timestamp": "00:03:39,519 --> 00:03:42,122",
+    "start": 219519,
+    "end": 222122
+  },
+  {
+    "text": "nobody can stop you.",
+    "index": "89",
+    "timestamp": "00:03:42,122 --> 00:03:44,057",
+    "start": 222122,
+    "end": 224057
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "90",
+    "timestamp": "00:03:44,057 --> 00:03:45,592",
+    "start": 224057,
+    "end": 225592
+  },
+  {
+    "text": ">> The game was going to<br>come down to who was tougher.",
+    "index": "91",
+    "timestamp": "00:03:45,592 --> 00:03:47,461",
+    "start": 225592,
+    "end": 227461
+  },
+  {
+    "text": "Physically tougher,<br>mentally tougher.",
+    "index": "92",
+    "timestamp": "00:03:47,461 --> 00:03:51,798",
+    "start": 227461,
+    "end": 231798
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "93",
+    "timestamp": "00:03:51,798 --> 00:03:56,670",
+    "start": 231798,
+    "end": 236670
+  },
+  {
+    "text": "[GRUNTING]",
+    "index": "94",
+    "timestamp": "00:03:56,670 --> 00:04:00,740",
+    "start": 236670,
+    "end": 240740
+  },
+  {
+    "text": ">> Wow, this defense<br>is playing magnificent.",
+    "index": "95",
+    "timestamp": "00:04:00,740 --> 00:04:05,645",
+    "start": 240740,
+    "end": 245645
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "96",
+    "timestamp": "00:04:05,645 --> 00:04:08,915",
+    "start": 245645,
+    "end": 248915
+  },
+  {
+    "text": "Aaron Donald, MVP.",
+    "index": "97",
+    "timestamp": "00:04:08,915 --> 00:04:12,285",
+    "start": 248915,
+    "end": 252285
+  },
+  {
+    "text": "[GRUNTING]",
+    "index": "98",
+    "timestamp": "00:04:12,285 --> 00:04:16,323",
+    "start": 252285,
+    "end": 256323
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "99",
+    "timestamp": "00:04:16,323 --> 00:04:22,129",
+    "start": 256323,
+    "end": 262129
+  },
+  {
+    "text": ">> You guys fight, man.",
+    "index": "100",
+    "timestamp": "00:04:22,129 --> 00:04:23,663",
+    "start": 262129,
+    "end": 263663
+  },
+  {
+    "text": "You guys fight and you fight,<br>and that's what's going to",
+    "index": "101",
+    "timestamp": "00:04:23,663 --> 00:04:26,166",
+    "start": 263663,
+    "end": 266166
+  },
+  {
+    "text": "carry us through.",
+    "index": "102",
+    "timestamp": "00:04:26,166 --> 00:04:28,135",
+    "start": 266166,
+    "end": 268135
+  },
+  {
+    "text": ">> I'm going to<br>challenge you right now,",
+    "index": "103",
+    "timestamp": "00:04:28,135 --> 00:04:29,369",
+    "start": 268135,
+    "end": 269369
+  },
+  {
+    "text": "these two quarters,<br>for greatness.",
+    "index": "104",
+    "timestamp": "00:04:29,369 --> 00:04:31,972",
+    "start": 269369,
+    "end": 271972
+  },
+  {
+    "text": "You take this<br>thing over right now.",
+    "index": "105",
+    "timestamp": "00:04:31,972 --> 00:04:35,008",
+    "start": 271972,
+    "end": 275008
+  },
+  {
+    "text": ">> Mayfield with a rocket.",
+    "index": "106",
+    "timestamp": "00:04:35,008 --> 00:04:37,177",
+    "start": 275008,
+    "end": 277177
+  },
+  {
+    "text": "Watson, the wizard,<br>does it again.",
+    "index": "107",
+    "timestamp": "00:04:38,512 --> 00:04:42,382",
+    "start": 278512,
+    "end": 282382
+  },
+  {
+    "text": ">> Patrick Mahomes,<br>the magic show.",
+    "index": "108",
+    "timestamp": "00:04:42,382 --> 00:04:44,951",
+    "start": 282382,
+    "end": 284951
+  },
+  {
+    "text": ">> He throws it<br>left-handed-to Tyreek Hill.",
+    "index": "109",
+    "timestamp": "00:04:44,951 --> 00:04:47,420",
+    "start": 284951,
+    "end": 287420
+  },
+  {
+    "text": "Unreal.",
+    "index": "110",
+    "timestamp": "00:04:47,420 --> 00:04:49,523",
+    "start": 287420,
+    "end": 289523
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "111",
+    "timestamp": "00:04:49,523 --> 00:04:52,259",
+    "start": 289523,
+    "end": 292259
+  },
+  {
+    "text": ">> It's win and you're<br>in, do or die in this 17.",
+    "index": "112",
+    "timestamp": "00:04:52,259 --> 00:04:55,228",
+    "start": 292259,
+    "end": 295228
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "113",
+    "timestamp": "00:04:55,228 --> 00:04:59,299",
+    "start": 295228,
+    "end": 299299
+  },
+  {
+    "text": ">> Colts are<br>going to the playoffs.",
+    "index": "114",
+    "timestamp": "00:04:59,299 --> 00:05:01,535",
+    "start": 299299,
+    "end": 301535
+  },
+  {
+    "text": ">> The whole NFL is watching.",
+    "index": "115",
+    "timestamp": "00:05:01,535 --> 00:05:04,171",
+    "start": 301535,
+    "end": 304171
+  },
+  {
+    "text": "Fourth and ten, this pass<br>is intercepted.",
+    "index": "116",
+    "timestamp": "00:05:04,171 --> 00:05:07,440",
+    "start": 304171,
+    "end": 307440
+  },
+  {
+    "text": "Hearts are broken in Pittsburgh.",
+    "index": "117",
+    "timestamp": "00:05:07,440 --> 00:05:11,111",
+    "start": 307440,
+    "end": 311111
+  },
+  {
+    "text": ">> And the Ravens are<br>in the playoffs.",
+    "index": "118",
+    "timestamp": "00:05:11,111 --> 00:05:13,413",
+    "start": 311111,
+    "end": 313413
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "119",
+    "timestamp": "00:05:13,413 --> 00:05:15,916",
+    "start": 313413,
+    "end": 315916
+  },
+  {
+    "text": ">> Hey, there's nothing better<br>than going with your brothers,",
+    "index": "120",
+    "timestamp": "00:05:15,916 --> 00:05:17,684",
+    "start": 315916,
+    "end": 317684
+  },
+  {
+    "text": "going to win a football game.",
+    "index": "121",
+    "timestamp": "00:05:17,684 --> 00:05:20,720",
+    "start": 317684,
+    "end": 320720
+  },
+  {
+    "text": "Now when you get<br>your opportunity,",
+    "index": "122",
+    "timestamp": "00:05:20,720 --> 00:05:23,323",
+    "start": 320720,
+    "end": 323323
+  },
+  {
+    "text": "go make a play.",
+    "index": "123",
+    "timestamp": "00:05:23,323 --> 00:05:25,225",
+    "start": 323323,
+    "end": 325225
+  },
+  {
+    "text": ">> The Colts are dominating<br>the game in every facet.",
+    "index": "124",
+    "timestamp": "00:05:26,760 --> 00:05:30,397",
+    "start": 326760,
+    "end": 330397
+  },
+  {
+    "text": ">> The Colts are going<br>to win in Baltimore.",
+    "index": "125",
+    "timestamp": "00:05:30,397 --> 00:05:33,366",
+    "start": 330397,
+    "end": 333366
+  },
+  {
+    "text": ">> Here it is, a<br>game on the line.",
+    "index": "126",
+    "timestamp": "00:05:33,366 --> 00:05:35,468",
+    "start": 333366,
+    "end": 335468
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "127",
+    "timestamp": "00:05:35,468 --> 00:05:38,038",
+    "start": 335468,
+    "end": 338038
+  },
+  {
+    "text": ">> No good, no good.",
+    "index": "128",
+    "timestamp": "00:05:38,038 --> 00:05:40,340",
+    "start": 338038,
+    "end": 340340
+  },
+  {
+    "text": ">> The Cowboys are moving on<br>to the divisional round",
+    "index": "129",
+    "timestamp": "00:05:40,340 --> 00:05:42,642",
+    "start": 340340,
+    "end": 342642
+  },
+  {
+    "text": "of the playoffs.",
+    "index": "130",
+    "timestamp": "00:05:42,642 --> 00:05:44,010",
+    "start": 342642,
+    "end": 344010
+  },
+  {
+    "text": ">> Let's go!",
+    "index": "131",
+    "timestamp": "00:05:44,010 --> 00:05:45,845",
+    "start": 344010,
+    "end": 345845
+  },
+  {
+    "text": ">> It is a mismatch right now.",
+    "index": "132",
+    "timestamp": "00:05:45,845 --> 00:05:49,449",
+    "start": 345845,
+    "end": 349449
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "133",
+    "timestamp": "00:05:49,449 --> 00:05:51,618",
+    "start": 349449,
+    "end": 351618
+  },
+  {
+    "text": ">> The coliseum erupts.",
+    "index": "134",
+    "timestamp": "00:05:51,618 --> 00:05:53,620",
+    "start": 351618,
+    "end": 353620
+  },
+  {
+    "text": "One down.",
+    "index": "135",
+    "timestamp": "00:05:53,620 --> 00:05:55,722",
+    "start": 353620,
+    "end": 355722
+  },
+  {
+    "text": "Two to go.",
+    "index": "136",
+    "timestamp": "00:05:55,722 --> 00:05:57,524",
+    "start": 355722,
+    "end": 357524
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "137",
+    "timestamp": "00:05:57,524 --> 00:05:59,459",
+    "start": 357524,
+    "end": 359459
+  },
+  {
+    "text": ">> The Chiefs' kingdom will<br>host the AFC championship",
+    "index": "138",
+    "timestamp": "00:05:59,459 --> 00:06:03,196",
+    "start": 359459,
+    "end": 363196
+  },
+  {
+    "text": "for the first time ever.",
+    "index": "139",
+    "timestamp": "00:06:03,196 --> 00:06:06,666",
+    "start": 363196,
+    "end": 366666
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "140",
+    "timestamp": "00:06:06,666 --> 00:06:14,708",
+    "start": 366666,
+    "end": 374708
+  },
+  {
+    "text": ">> You're too old.",
+    "index": "141",
+    "timestamp": "00:06:14,708 --> 00:06:16,009",
+    "start": 374708,
+    "end": 376009
+  },
+  {
+    "text": "You're too old.",
+    "index": "142",
+    "timestamp": "00:06:16,009 --> 00:06:18,445",
+    "start": 376009,
+    "end": 378445
+  },
+  {
+    "text": ">> Unbelievable, no call.",
+    "index": "143",
+    "timestamp": "00:06:18,445 --> 00:06:19,846",
+    "start": 378445,
+    "end": 379846
+  },
+  {
+    "text": ">> The NFC went to overtime.",
+    "index": "144",
+    "timestamp": "00:06:19,846 --> 00:06:21,881",
+    "start": 379846,
+    "end": 381881
+  },
+  {
+    "text": "The AFC goes to overtime.",
+    "index": "145",
+    "timestamp": "00:06:21,881 --> 00:06:24,851",
+    "start": 381881,
+    "end": 384851
+  },
+  {
+    "text": ">> Clutch to the down catch.",
+    "index": "146",
+    "timestamp": "00:06:24,851 --> 00:06:26,553",
+    "start": 384851,
+    "end": 386553
+  },
+  {
+    "text": ">> Patriot!",
+    "index": "147",
+    "timestamp": "00:06:26,553 --> 00:06:27,821",
+    "start": 386553,
+    "end": 387821
+  },
+  {
+    "text": ">> We're going back, baby.",
+    "index": "148",
+    "timestamp": "00:06:27,821 --> 00:06:29,155",
+    "start": 387821,
+    "end": 389155
+  },
+  {
+    "text": ">> Greg Zuerlein --",
+    "index": "149",
+    "timestamp": "00:06:29,155 --> 00:06:31,424",
+    "start": 389155,
+    "end": 391424
+  },
+  {
+    "text": "sends the Rams<br>to the Super Bowl.",
+    "index": "150",
+    "timestamp": "00:06:31,424 --> 00:06:34,995",
+    "start": 391424,
+    "end": 394995
+  },
+  {
+    "text": ">> Way to go, baby, way to go.",
+    "index": "151",
+    "timestamp": "00:06:34,995 --> 00:06:37,797",
+    "start": 394995,
+    "end": 397797
+  },
+  {
+    "text": "What a game.",
+    "index": "152",
+    "timestamp": "00:06:37,797 --> 00:06:38,598",
+    "start": 397797,
+    "end": 398598
+  },
+  {
+    "text": ">> I love you too, man.",
+    "index": "153",
+    "timestamp": "00:06:38,598 --> 00:06:40,367",
+    "start": 398598,
+    "end": 400367
+  },
+  {
+    "text": ">> I just like winning.",
+    "index": "154",
+    "timestamp": "00:06:40,367 --> 00:06:42,569",
+    "start": 400367,
+    "end": 402569
+  },
+  {
+    "text": ">> Tom Brady has been<br>winning for a long time.",
+    "index": "155",
+    "timestamp": "00:06:42,569 --> 00:06:46,306",
+    "start": 402569,
+    "end": 406306
+  },
+  {
+    "text": ">> Yeah!",
+    "index": "156",
+    "timestamp": "00:06:46,306 --> 00:06:48,341",
+    "start": 406306,
+    "end": 408341
+  },
+  {
+    "text": ">> He and Bill Belichick<br>kick-started the dynasty back in",
+    "index": "157",
+    "timestamp": "00:06:48,341 --> 00:06:51,211",
+    "start": 408341,
+    "end": 411211
+  },
+  {
+    "text": "the 2001 season<br>against the St. Louis Rams.",
+    "index": "158",
+    "timestamp": "00:06:51,211 --> 00:06:55,348",
+    "start": 411211,
+    "end": 415348
+  },
+  {
+    "text": ">> A pulse-pounding<br>finish to this one here.",
+    "index": "159",
+    "timestamp": "00:06:57,017 --> 00:06:59,552",
+    "start": 417017,
+    "end": 419552
+  },
+  {
+    "text": ">> The Patriots are<br>Super Bowl champions.",
+    "index": "160",
+    "timestamp": "00:06:59,552 --> 00:07:02,489",
+    "start": 419552,
+    "end": 422489
+  },
+  {
+    "text": ">> Brady was just 24<br>years old at the time.",
+    "index": "161",
+    "timestamp": "00:07:04,291 --> 00:07:08,328",
+    "start": 424291,
+    "end": 428328
+  },
+  {
+    "text": "The same age as Jared Goff,<br>heading into Super Bowl LIII.",
+    "index": "162",
+    "timestamp": "00:07:08,328 --> 00:07:12,732",
+    "start": 428328,
+    "end": 432732
+  },
+  {
+    "text": "While their 2018 teams<br>had similar playoff bids,",
+    "index": "163",
+    "timestamp": "00:07:14,301 --> 00:07:18,738",
+    "start": 434301,
+    "end": 438738
+  },
+  {
+    "text": "dominant divisional<br>wins at home --",
+    "index": "164",
+    "timestamp": "00:07:18,738 --> 00:07:21,775",
+    "start": 438738,
+    "end": 441775
+  },
+  {
+    "text": ">> To Anderson and<br>he puts it in the paints.",
+    "index": "165",
+    "timestamp": "00:07:21,775 --> 00:07:25,078",
+    "start": 441775,
+    "end": 445078
+  },
+  {
+    "text": ">> Brady turns, gives to<br>Michel, runs up the middle,",
+    "index": "166",
+    "timestamp": "00:07:25,078 --> 00:07:26,780",
+    "start": 445078,
+    "end": 446780
+  },
+  {
+    "text": "pushing the pile, driving his<br>way, touchdown Patriots.",
+    "index": "167",
+    "timestamp": "00:07:26,780 --> 00:07:31,885",
+    "start": 446780,
+    "end": 451885
+  },
+  {
+    "text": ">> Unbelievable job.",
+    "index": "168",
+    "timestamp": "00:07:31,885 --> 00:07:33,420",
+    "start": 451885,
+    "end": 453420
+  },
+  {
+    "text": ">> And two historic championship<br>game road upsets",
+    "index": "169",
+    "timestamp": "00:07:33,420 --> 00:07:36,356",
+    "start": 453420,
+    "end": 456356
+  },
+  {
+    "text": "in New Orleans and Kansas City.",
+    "index": "170",
+    "timestamp": "00:07:36,356 --> 00:07:38,591",
+    "start": 456356,
+    "end": 458591
+  },
+  {
+    "text": "[CHEERING]",
+    "index": "171",
+    "timestamp": "00:07:38,591 --> 00:07:41,661",
+    "start": 458591,
+    "end": 461661
+  },
+  {
+    "text": ">> We want the ball.",
+    "index": "172",
+    "timestamp": "00:07:41,661 --> 00:07:43,363",
+    "start": 461661,
+    "end": 463363
+  },
+  {
+    "text": ">> We ain't done yet.",
+    "index": "173",
+    "timestamp": "00:07:43,363 --> 00:07:45,265",
+    "start": 463363,
+    "end": 465265
+  },
+  {
+    "text": ">> What are you<br>going to say now.",
+    "index": "174",
+    "timestamp": "00:07:45,265 --> 00:07:47,067",
+    "start": 465265,
+    "end": 467067
+  },
+  {
+    "text": ">> Oh, man.",
+    "index": "175",
+    "timestamp": "00:07:47,067 --> 00:07:48,335",
+    "start": 467067,
+    "end": 468335
+  },
+  {
+    "text": ">> Once the stage was<br>set for Super Bowl LIII,",
+    "index": "176",
+    "timestamp": "00:07:48,335 --> 00:07:51,204",
+    "start": 468335,
+    "end": 471204
+  },
+  {
+    "text": "the striking contrast<br>in contenders was clear.",
+    "index": "177",
+    "timestamp": "00:07:51,204 --> 00:07:55,108",
+    "start": 471204,
+    "end": 475108
+  },
+  {
+    "text": ">> Sean McVay, the youngest head<br>coach in Super Bowl history,",
+    "index": "178",
+    "timestamp": "00:07:55,108 --> 00:07:58,011",
+    "start": 475108,
+    "end": 478011
+  },
+  {
+    "text": "and Jared Goff, their<br>time just beginning.",
+    "index": "179",
+    "timestamp": "00:07:58,011 --> 00:08:00,847",
+    "start": 478011,
+    "end": 480847
+  },
+  {
+    "text": "The Patriots have<br>owned the past.",
+    "index": "180",
+    "timestamp": "00:08:00,847 --> 00:08:02,916",
+    "start": 480847,
+    "end": 482916
+  },
+  {
+    "text": "They've returned to seize<br>what eluded them a year ago",
+    "index": "181",
+    "timestamp": "00:08:02,916 --> 00:08:05,418",
+    "start": 482916,
+    "end": 485418
+  },
+  {
+    "text": "in Minneapolis -- a<br>sixth Lombardi trophy,",
+    "index": "182",
+    "timestamp": "00:08:05,418 --> 00:08:08,254",
+    "start": 485418,
+    "end": 488254
+  },
+  {
+    "text": "exactly 17 years after they<br>captured their first",
+    "index": "183",
+    "timestamp": "00:08:08,254 --> 00:08:11,691",
+    "start": 488254,
+    "end": 491691
+  },
+  {
+    "text": "against the St. Louis Rams.",
+    "index": "184",
+    "timestamp": "00:08:11,691 --> 00:08:14,194",
+    "start": 491691,
+    "end": 494194
+  },
+  {
+    "text": ">> The Rams are ready<br>to take on the Patriots,",
+    "index": "185",
+    "timestamp": "00:08:14,194 --> 00:08:15,762",
+    "start": 494194,
+    "end": 495762
+  },
+  {
+    "text": "come what may.",
+    "index": "186",
+    "timestamp": "00:08:15,762 --> 00:08:16,830",
+    "start": 495762,
+    "end": 496830
+  },
+  {
+    "text": "We'll see what happens.",
+    "index": "187",
+    "timestamp": "00:08:16,830 --> 00:08:18,331",
+    "start": 496830,
+    "end": 498331
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "188",
+    "timestamp": "00:08:18,331 --> 00:08:21,234",
+    "start": 498331,
+    "end": 501234
+  },
+  {
+    "text": ">> Good evening,<br>from Atlanta, Georgia,",
+    "index": "189",
+    "timestamp": "00:08:21,234 --> 00:08:22,902",
+    "start": 501234,
+    "end": 502902
+  },
+  {
+    "text": "and inside the<br>Mercedes Benz stadium here,",
+    "index": "190",
+    "timestamp": "00:08:22,902 --> 00:08:25,605",
+    "start": 502902,
+    "end": 505605
+  },
+  {
+    "text": "it's Super Bowl LIII.",
+    "index": "191",
+    "timestamp": "00:08:25,605 --> 00:08:27,874",
+    "start": 505605,
+    "end": 507874
+  },
+  {
+    "text": "This venue is the<br>NFL's newest facility,",
+    "index": "192",
+    "timestamp": "00:08:29,442 --> 00:08:31,711",
+    "start": 509442,
+    "end": 511711
+  },
+  {
+    "text": "and one of its signature<br>features, a semi-transparent",
+    "index": "193",
+    "timestamp": "00:08:31,711 --> 00:08:34,647",
+    "start": 511711,
+    "end": 514647
+  },
+  {
+    "text": "retractable roof, which opens<br>and closes like the aperture",
+    "index": "194",
+    "timestamp": "00:08:34,647 --> 00:08:37,684",
+    "start": 514647,
+    "end": 517684
+  },
+  {
+    "text": "of a camera.",
+    "index": "195",
+    "timestamp": "00:08:37,684 --> 00:08:39,219",
+    "start": 517684,
+    "end": 519219
+  },
+  {
+    "text": ">> This is going to be fun.",
+    "index": "196",
+    "timestamp": "00:08:40,186 --> 00:08:40,954",
+    "start": 520186,
+    "end": 520954
+  },
+  {
+    "text": ">> Yeah, it is.",
+    "index": "197",
+    "timestamp": "00:08:40,954 --> 00:08:41,821",
+    "start": 520954,
+    "end": 521821
+  },
+  {
+    "text": ">> Bill Belichick, of course,<br>in his ninth Super Bowl",
+    "index": "198",
+    "timestamp": "00:08:41,821 --> 00:08:44,057",
+    "start": 521821,
+    "end": 524057
+  },
+  {
+    "text": "as a head coach.",
+    "index": "199",
+    "timestamp": "00:08:44,057 --> 00:08:45,291",
+    "start": 524057,
+    "end": 525291
+  },
+  {
+    "text": "The 12th for him as a<br>head coach or assistant.",
+    "index": "200",
+    "timestamp": "00:08:45,291 --> 00:08:47,627",
+    "start": 525291,
+    "end": 527627
+  },
+  {
+    "text": "Sean McVay, only his second<br>year as a head coach in the NFL.",
+    "index": "201",
+    "timestamp": "00:08:47,627 --> 00:08:51,831",
+    "start": 527627,
+    "end": 531831
+  },
+  {
+    "text": ">> Trying to look for you.",
+    "index": "202",
+    "timestamp": "00:08:51,831 --> 00:08:52,799",
+    "start": 531831,
+    "end": 532799
+  },
+  {
+    "text": "Like you to know, man,<br>so much respect for you.",
+    "index": "203",
+    "timestamp": "00:08:52,799 --> 00:08:54,501",
+    "start": 532799,
+    "end": 534501
+  },
+  {
+    "text": ">> Likewise.",
+    "index": "204",
+    "timestamp": "00:08:54,501 --> 00:08:55,735",
+    "start": 534501,
+    "end": 535735
+  },
+  {
+    "text": "Your guys are doing a great job.",
+    "index": "205",
+    "timestamp": "00:08:55,735 --> 00:08:56,736",
+    "start": 535735,
+    "end": 536736
+  },
+  {
+    "text": ">> Hey, you always do, though.",
+    "index": "206",
+    "timestamp": "00:08:56,736 --> 00:08:58,138",
+    "start": 536736,
+    "end": 538138
+  },
+  {
+    "text": "Been doing it -- you know,<br>you're the best, man.",
+    "index": "207",
+    "timestamp": "00:08:58,138 --> 00:09:00,707",
+    "start": 538138,
+    "end": 540707
+  },
+  {
+    "text": "The way that you guys are<br>able to shift your identity,",
+    "index": "208",
+    "timestamp": "00:09:00,707 --> 00:09:02,709",
+    "start": 540707,
+    "end": 542709
+  },
+  {
+    "text": "and really still be<br>able to figure it out,",
+    "index": "209",
+    "timestamp": "00:09:02,709 --> 00:09:04,577",
+    "start": 542709,
+    "end": 544577
+  },
+  {
+    "text": "week in and week out,<br>it's unbelievable, man.",
+    "index": "210",
+    "timestamp": "00:09:04,577 --> 00:09:06,780",
+    "start": 544577,
+    "end": 546780
+  },
+  {
+    "text": "It's really a<br>credit to you guys.",
+    "index": "211",
+    "timestamp": "00:09:06,780 --> 00:09:08,381",
+    "start": 546780,
+    "end": 548381
+  },
+  {
+    "text": "So much respect.",
+    "index": "212",
+    "timestamp": "00:09:08,381 --> 00:09:09,983",
+    "start": 548381,
+    "end": 549983
+  },
+  {
+    "text": ">> Let's go, T.B., let's do it.",
+    "index": "213",
+    "timestamp": "00:09:09,983 --> 00:09:11,217",
+    "start": 549983,
+    "end": 551217
+  },
+  {
+    "text": "Let's do it.",
+    "index": "214",
+    "timestamp": "00:09:11,217 --> 00:09:12,752",
+    "start": 551217,
+    "end": 552752
+  },
+  {
+    "text": ">> Controlled aggression,<br>controlled aggression.",
+    "index": "215",
+    "timestamp": "00:09:12,752 --> 00:09:15,822",
+    "start": 552752,
+    "end": 555822
+  },
+  {
+    "text": ">> All day today, fellas, have<br>each other's back",
+    "index": "216",
+    "timestamp": "00:09:15,822 --> 00:09:18,425",
+    "start": 555822,
+    "end": 558425
+  },
+  {
+    "text": "for the last time<br>in 2018 season.",
+    "index": "217",
+    "timestamp": "00:09:18,425 --> 00:09:21,261",
+    "start": 558425,
+    "end": 561261
+  },
+  {
+    "text": "We've been through everything<br>to be here in this moment.",
+    "index": "218",
+    "timestamp": "00:09:21,261 --> 00:09:24,397",
+    "start": 561261,
+    "end": 564397
+  },
+  {
+    "text": "Tonight is the night.",
+    "index": "219",
+    "timestamp": "00:09:24,397 --> 00:09:25,732",
+    "start": 564397,
+    "end": 565732
+  },
+  {
+    "text": "Show the world.",
+    "index": "220",
+    "timestamp": "00:09:25,732 --> 00:09:27,167",
+    "start": 565732,
+    "end": 567167
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "221",
+    "timestamp": "00:09:27,167 --> 00:09:37,444",
+    "start": 567167,
+    "end": 577444
+  },
+  {
+    "text": "[JETS ROARING]",
+    "index": "222",
+    "timestamp": "00:09:37,444 --> 00:09:45,218",
+    "start": 577444,
+    "end": 585218
+  },
+  {
+    "text": ">> I love you.",
+    "index": "223",
+    "timestamp": "00:09:45,218 --> 00:09:45,885",
+    "start": 585218,
+    "end": 585885
+  },
+  {
+    "text": ">> Love you, bro.",
+    "index": "224",
+    "timestamp": "00:09:45,885 --> 00:09:47,320",
+    "start": 585885,
+    "end": 587320
+  },
+  {
+    "text": ">> All right, get<br>ready to go, now.",
+    "index": "225",
+    "timestamp": "00:09:47,320 --> 00:09:48,388",
+    "start": 587320,
+    "end": 588388
+  },
+  {
+    "text": "Let's get ready to go.",
+    "index": "226",
+    "timestamp": "00:09:48,388 --> 00:09:49,923",
+    "start": 588388,
+    "end": 589923
+  },
+  {
+    "text": "[PAUSE]",
+    "index": "227",
+    "timestamp": "00:09:49,923 --> 00:09:58,398",
+    "start": 589923,
+    "end": 598398
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "228",
+    "timestamp": "00:09:58,398 --> 00:10:01,167",
+    "start": 598398,
+    "end": 601167
+  },
+  {
+    "text": ">> Good evening,<br>from Atlanta, Georgia,",
+    "index": "229",
+    "timestamp": "00:10:01,167 --> 00:10:03,136",
+    "start": 601167,
+    "end": 603136
+  },
+  {
+    "text": "and inside the<br>Mercedes Benz Stadium here,",
+    "index": "230",
+    "timestamp": "00:10:03,136 --> 00:10:05,738",
+    "start": 603136,
+    "end": 605738
+  },
+  {
+    "text": "it's Super Bowl LIII.",
+    "index": "231",
+    "timestamp": "00:10:05,738 --> 00:10:09,375",
+    "start": 605738,
+    "end": 609375
+  },
+  {
+    "text": "This venue is the<br>NFL's newest facility,",
+    "index": "232",
+    "timestamp": "00:10:09,375 --> 00:10:11,845",
+    "start": 609375,
+    "end": 611845
+  },
+  {
+    "text": "and one of its signature<br>features is a semi-transparent",
+    "index": "233",
+    "timestamp": "00:10:11,845 --> 00:10:14,647",
+    "start": 611845,
+    "end": 614647
+  },
+  {
+    "text": "retractable roof, which opens<br>and closes like the aperture",
+    "index": "234",
+    "timestamp": "00:10:14,647 --> 00:10:17,717",
+    "start": 614647,
+    "end": 617717
+  },
+  {
+    "text": "of a camera.",
+    "index": "235",
+    "timestamp": "00:10:17,717 --> 00:10:19,752",
+    "start": 617717,
+    "end": 619752
+  },
+  {
+    "text": ">> This is going to be fun.",
+    "index": "236",
+    "timestamp": "00:10:19,752 --> 00:10:20,854",
+    "start": 619752,
+    "end": 620854
+  },
+  {
+    "text": ">> Yeah, it is.",
+    "index": "237",
+    "timestamp": "00:10:20,854 --> 00:10:21,721",
+    "start": 620854,
+    "end": 621721
+  },
+  {
+    "text": ">> Bill Belichick, of course,<br>in his ninth Super Bowl",
+    "index": "238",
+    "timestamp": "00:10:21,721 --> 00:10:24,023",
+    "start": 621721,
+    "end": 624023
+  },
+  {
+    "text": "as a head coach.",
+    "index": "239",
+    "timestamp": "00:10:24,023 --> 00:10:25,358",
+    "start": 624023,
+    "end": 625358
+  },
+  {
+    "text": "The 12th for him as a<br>head coach or assistant.",
+    "index": "240",
+    "timestamp": "00:10:25,358 --> 00:10:27,627",
+    "start": 625358,
+    "end": 627627
+  },
+  {
+    "text": "Sean McVay, only his second<br>year as a head coach in the NFL.",
+    "index": "241",
+    "timestamp": "00:10:27,627 --> 00:10:31,631",
+    "start": 627627,
+    "end": 631631
+  },
+  {
+    "text": ">> Trying to look for you.",
+    "index": "242",
+    "timestamp": "00:10:31,631 --> 00:10:32,799",
+    "start": 631631,
+    "end": 632799
+  },
+  {
+    "text": "Like you to know, man,<br>so much respect for you.",
+    "index": "243",
+    "timestamp": "00:10:32,799 --> 00:10:34,467",
+    "start": 632799,
+    "end": 634467
+  },
+  {
+    "text": ">> Likewise.",
+    "index": "244",
+    "timestamp": "00:10:34,467 --> 00:10:35,235",
+    "start": 634467,
+    "end": 635235
+  },
+  {
+    "text": "Your guys are doing a great job.",
+    "index": "245",
+    "timestamp": "00:10:35,235 --> 00:10:36,169",
+    "start": 635235,
+    "end": 636169
+  },
+  {
+    "text": ">> Hey, you always do, though.",
+    "index": "246",
+    "timestamp": "00:10:36,169 --> 00:10:38,204",
+    "start": 636169,
+    "end": 638204
+  },
+  {
+    "text": "Been doing it -- you know,<br>you're the best, man.",
+    "index": "247",
+    "timestamp": "00:10:38,204 --> 00:10:40,707",
+    "start": 638204,
+    "end": 640707
+  },
+  {
+    "text": "The way that you guys are<br>able to shift your identity,",
+    "index": "248",
+    "timestamp": "00:10:40,707 --> 00:10:42,742",
+    "start": 640707,
+    "end": 642742
+  },
+  {
+    "text": "and really still be<br>able to figure it out,",
+    "index": "249",
+    "timestamp": "00:10:42,742 --> 00:10:44,611",
+    "start": 642742,
+    "end": 644611
+  },
+  {
+    "text": "week in and week out,<br>it's unbelievable, man.",
+    "index": "250",
+    "timestamp": "00:10:44,611 --> 00:10:46,746",
+    "start": 644611,
+    "end": 646746
+  },
+  {
+    "text": "It's really a<br>credit to you guys.",
+    "index": "251",
+    "timestamp": "00:10:46,746 --> 00:10:48,448",
+    "start": 646746,
+    "end": 648448
+  },
+  {
+    "text": "So much respect.",
+    "index": "252",
+    "timestamp": "00:10:48,448 --> 00:10:49,916",
+    "start": 648448,
+    "end": 649916
+  },
+  {
+    "text": ">> Let's go, T.B., let's do it.",
+    "index": "253",
+    "timestamp": "00:10:49,916 --> 00:10:51,217",
+    "start": 649916,
+    "end": 651217
+  },
+  {
+    "text": "Let's do it.",
+    "index": "254",
+    "timestamp": "00:10:51,217 --> 00:10:52,752",
+    "start": 651217,
+    "end": 652752
+  },
+  {
+    "text": ">> Controlled aggression,<br>controlled aggression.",
+    "index": "255",
+    "timestamp": "00:10:52,752 --> 00:10:55,822",
+    "start": 652752,
+    "end": 655822
+  },
+  {
+    "text": ">> All day today, fellas, have<br>each other's back",
+    "index": "256",
+    "timestamp": "00:10:55,822 --> 00:10:58,558",
+    "start": 655822,
+    "end": 658558
+  },
+  {
+    "text": "for the last time<br>in 2018 season.",
+    "index": "257",
+    "timestamp": "00:10:58,558 --> 00:11:01,294",
+    "start": 658558,
+    "end": 661294
+  },
+  {
+    "text": "We've been through everything<br>to be here in this moment.",
+    "index": "258",
+    "timestamp": "00:11:01,294 --> 00:11:04,397",
+    "start": 661294,
+    "end": 664397
+  },
+  {
+    "text": "Tonight is the night.",
+    "index": "259",
+    "timestamp": "00:11:04,397 --> 00:11:05,665",
+    "start": 664397,
+    "end": 665665
+  },
+  {
+    "text": "Show the world.",
+    "index": "260",
+    "timestamp": "00:11:05,665 --> 00:11:07,300",
+    "start": 665665,
+    "end": 667300
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "261",
+    "timestamp": "00:11:07,300 --> 00:11:17,210",
+    "start": 667300,
+    "end": 677210
+  },
+  {
+    "text": "[JETS ROARING]",
+    "index": "262",
+    "timestamp": "00:11:17,210 --> 00:11:24,984",
+    "start": 677210,
+    "end": 684984
+  },
+  {
+    "text": ">> I love you.",
+    "index": "263",
+    "timestamp": "00:11:24,984 --> 00:11:25,785",
+    "start": 684984,
+    "end": 685785
+  },
+  {
+    "text": ">> Love you, bro.",
+    "index": "264",
+    "timestamp": "00:11:25,785 --> 00:11:26,753",
+    "start": 685785,
+    "end": 686753
+  },
+  {
+    "text": ">> All right, let's get ready<br>to go, now.",
+    "index": "265",
+    "timestamp": "00:11:26,753 --> 00:11:27,854",
+    "start": 686753,
+    "end": 687854
+  },
+  {
+    "text": "Let's get ready to go.",
+    "index": "266",
+    "timestamp": "00:11:27,854 --> 00:11:29,322",
+    "start": 687854,
+    "end": 689322
+  },
+  {
+    "text": "[WHISTLE]",
+    "index": "267",
+    "timestamp": "00:11:29,322 --> 00:11:30,857",
+    "start": 689322,
+    "end": 690857
+  },
+  {
+    "text": ">> The kick is in the air,<br>to begin Super Bowl LIII.",
+    "index": "268",
+    "timestamp": "00:11:32,859 --> 00:11:36,496",
+    "start": 692859,
+    "end": 696496
+  },
+  {
+    "text": ">> All right, here we<br>go, team, let's go.",
+    "index": "269",
+    "timestamp": "00:11:38,932 --> 00:11:42,201",
+    "start": 698932,
+    "end": 702201
+  },
+  {
+    "text": ">> Great starting<br>field position,",
+    "index": "270",
+    "timestamp": "00:11:42,201 --> 00:11:43,803",
+    "start": 702201,
+    "end": 703803
+  },
+  {
+    "text": "the 40-yard line.",
+    "index": "271",
+    "timestamp": "00:11:43,803 --> 00:11:45,471",
+    "start": 703803,
+    "end": 705471
+  },
+  {
+    "text": ">> Give it to Michel.",
+    "index": "272",
+    "timestamp": "00:11:45,471 --> 00:11:46,172",
+    "start": 705471,
+    "end": 706172
+  },
+  {
+    "text": "Big pull up the middle.",
+    "index": "273",
+    "timestamp": "00:11:46,172 --> 00:11:47,006",
+    "start": 706172,
+    "end": 707006
+  },
+  {
+    "text": "He runs it past the<br>45, cuts it mid field,",
+    "index": "274",
+    "timestamp": "00:11:47,006 --> 00:11:49,375",
+    "start": 707006,
+    "end": 709375
+  },
+  {
+    "text": "and he is dropped<br>on the 48-yard line.",
+    "index": "275",
+    "timestamp": "00:11:49,375 --> 00:11:51,477",
+    "start": 709375,
+    "end": 711477
+  },
+  {
+    "text": "[CHEERING]",
+    "index": "276",
+    "timestamp": "00:11:51,477 --> 00:11:54,614",
+    "start": 711477,
+    "end": 714614
+  },
+  {
+    "text": ">> 13-yard pickup<br>on play number one.",
+    "index": "277",
+    "timestamp": "00:11:54,614 --> 00:11:56,783",
+    "start": 714614,
+    "end": 716783
+  },
+  {
+    "text": "The Patriots are<br>gonna run the ball.",
+    "index": "278",
+    "timestamp": "00:11:56,783 --> 00:11:58,384",
+    "start": 716783,
+    "end": 718384
+  },
+  {
+    "text": "You knew this<br>coming into the game.",
+    "index": "279",
+    "timestamp": "00:11:58,384 --> 00:12:00,219",
+    "start": 718384,
+    "end": 720219
+  },
+  {
+    "text": "Try to run the<br>ball down your throat.",
+    "index": "280",
+    "timestamp": "00:12:00,219 --> 00:12:02,255",
+    "start": 720219,
+    "end": 722255
+  },
+  {
+    "text": "Can you bow up?",
+    "index": "281",
+    "timestamp": "00:12:02,255 --> 00:12:03,790",
+    "start": 722255,
+    "end": 723790
+  },
+  {
+    "text": ">> Hey, bow up.",
+    "index": "282",
+    "timestamp": "00:12:03,790 --> 00:12:05,158",
+    "start": 723790,
+    "end": 725158
+  },
+  {
+    "text": "Come on.",
+    "index": "283",
+    "timestamp": "00:12:05,158 --> 00:12:06,192",
+    "start": 725158,
+    "end": 726192
+  },
+  {
+    "text": ">> Opening drive of the game,<br>second down and seventh.",
+    "index": "284",
+    "timestamp": "00:12:06,192 --> 00:12:09,662",
+    "start": 726192,
+    "end": 729662
+  },
+  {
+    "text": "Brady looking<br>right all the way.",
+    "index": "285",
+    "timestamp": "00:12:09,662 --> 00:12:10,763",
+    "start": 729662,
+    "end": 730763
+  },
+  {
+    "text": "He gets rid of it quickly.",
+    "index": "286",
+    "timestamp": "00:12:10,763 --> 00:12:12,432",
+    "start": 730763,
+    "end": 732432
+  },
+  {
+    "text": "It's tipped up in the air.",
+    "index": "287",
+    "timestamp": "00:12:12,432 --> 00:12:13,766",
+    "start": 732432,
+    "end": 733766
+  },
+  {
+    "text": "[CHEERING]",
+    "index": "288",
+    "timestamp": "00:12:13,766 --> 00:12:15,468",
+    "start": 733766,
+    "end": 735468
+  },
+  {
+    "text": ">> It is intercepted!",
+    "index": "289",
+    "timestamp": "00:12:15,468 --> 00:12:16,903",
+    "start": 735468,
+    "end": 736903
+  },
+  {
+    "text": "Cory Littleton.",
+    "index": "290",
+    "timestamp": "00:12:16,903 --> 00:12:18,438",
+    "start": 736903,
+    "end": 738438
+  },
+  {
+    "text": ">> Yeah!",
+    "index": "291",
+    "timestamp": "00:12:18,438 --> 00:12:20,206",
+    "start": 738438,
+    "end": 740206
+  },
+  {
+    "text": ">> Pass intercepted by<br>number 58, Cory Littleton.",
+    "index": "292",
+    "timestamp": "00:12:20,206 --> 00:12:24,043",
+    "start": 740206,
+    "end": 744043
+  },
+  {
+    "text": ">> The athletic linebacker<br>finds a way to get it.",
+    "index": "293",
+    "timestamp": "00:12:24,043 --> 00:12:26,412",
+    "start": 744043,
+    "end": 746412
+  },
+  {
+    "text": "Now your offense have a chance.",
+    "index": "294",
+    "timestamp": "00:12:26,412 --> 00:12:27,614",
+    "start": 746412,
+    "end": 747614
+  },
+  {
+    "text": "Start fast to put this<br>game into a tense situation.",
+    "index": "295",
+    "timestamp": "00:12:27,614 --> 00:12:32,085",
+    "start": 747614,
+    "end": 752085
+  },
+  {
+    "text": ">> That's you, that's you.",
+    "index": "296",
+    "timestamp": "00:12:32,085 --> 00:12:34,887",
+    "start": 752085,
+    "end": 754887
+  },
+  {
+    "text": ">> Nice play.",
+    "index": "297",
+    "timestamp": "00:12:34,887 --> 00:12:36,623",
+    "start": 754887,
+    "end": 756623
+  },
+  {
+    "text": ">> Now the Rams take over.",
+    "index": "298",
+    "timestamp": "00:12:38,024 --> 00:12:39,525",
+    "start": 758024,
+    "end": 759525
+  },
+  {
+    "text": "After the gift of the<br>opening series for the Patriots.",
+    "index": "299",
+    "timestamp": "00:12:39,525 --> 00:12:42,495",
+    "start": 759525,
+    "end": 762495
+  },
+  {
+    "text": "Goff at the 20.",
+    "index": "300",
+    "timestamp": "00:12:42,495 --> 00:12:43,262",
+    "start": 762495,
+    "end": 763262
+  },
+  {
+    "text": "Looking for a target.",
+    "index": "301",
+    "timestamp": "00:12:43,262 --> 00:12:44,664",
+    "start": 763262,
+    "end": 764664
+  },
+  {
+    "text": "25, and he goes out of bounds.",
+    "index": "302",
+    "timestamp": "00:12:44,664 --> 00:12:46,132",
+    "start": 764664,
+    "end": 766132
+  },
+  {
+    "text": "Yes, he lets it go<br>incomplete out of bounds.",
+    "index": "303",
+    "timestamp": "00:12:46,132 --> 00:12:49,102",
+    "start": 766132,
+    "end": 769102
+  },
+  {
+    "text": "It's third down and eight.",
+    "index": "304",
+    "timestamp": "00:12:49,102 --> 00:12:50,937",
+    "start": 769102,
+    "end": 770937
+  },
+  {
+    "text": ">> Goff dropping<br>back, under pressure,",
+    "index": "305",
+    "timestamp": "00:12:50,937 --> 00:12:52,805",
+    "start": 770937,
+    "end": 772805
+  },
+  {
+    "text": "throws across the middle, drop.",
+    "index": "306",
+    "timestamp": "00:12:52,805 --> 00:12:54,974",
+    "start": 772805,
+    "end": 774974
+  },
+  {
+    "text": ">> Hard hit on the<br>receiver Reynolds.",
+    "index": "307",
+    "timestamp": "00:12:54,974 --> 00:12:56,909",
+    "start": 774974,
+    "end": 776909
+  },
+  {
+    "text": "Level by Patrick Chung.",
+    "index": "308",
+    "timestamp": "00:12:56,909 --> 00:12:59,345",
+    "start": 776909,
+    "end": 779345
+  },
+  {
+    "text": ">> It's three and out<br>after the interception",
+    "index": "309",
+    "timestamp": "00:12:59,345 --> 00:13:01,414",
+    "start": 779345,
+    "end": 781414
+  },
+  {
+    "text": "for the Los Angeles Rams.",
+    "index": "310",
+    "timestamp": "00:13:01,414 --> 00:13:03,216",
+    "start": 781414,
+    "end": 783216
+  },
+  {
+    "text": ">> That's a good job on Gurley.",
+    "index": "311",
+    "timestamp": "00:13:03,216 --> 00:13:05,151",
+    "start": 783216,
+    "end": 785151
+  },
+  {
+    "text": "Right there, that's -- I mean,<br>he was looking for him,",
+    "index": "312",
+    "timestamp": "00:13:05,151 --> 00:13:07,253",
+    "start": 785151,
+    "end": 787253
+  },
+  {
+    "text": "and he got thrown it away.",
+    "index": "313",
+    "timestamp": "00:13:07,253 --> 00:13:09,489",
+    "start": 787253,
+    "end": 789489
+  },
+  {
+    "text": ">> We're scoreless after<br>each team has a touch.",
+    "index": "314",
+    "timestamp": "00:13:09,489 --> 00:13:13,192",
+    "start": 789489,
+    "end": 793192
+  },
+  {
+    "text": "Patriots will start<br>from their 12-yard line.",
+    "index": "315",
+    "timestamp": "00:13:13,192 --> 00:13:17,163",
+    "start": 793192,
+    "end": 797163
+  },
+  {
+    "text": ">> Brady is<br>all amped up here.",
+    "index": "316",
+    "timestamp": "00:13:17,163 --> 00:13:18,765",
+    "start": 797163,
+    "end": 798765
+  },
+  {
+    "text": ">> I make another<br>mistake all night, boys.",
+    "index": "317",
+    "timestamp": "00:13:18,765 --> 00:13:20,833",
+    "start": 798765,
+    "end": 800833
+  },
+  {
+    "text": ">> Let's get it.<br>Let's get it. Let's get it.",
+    "index": "318",
+    "timestamp": "00:13:20,833 --> 00:13:24,871",
+    "start": 800833,
+    "end": 804871
+  },
+  {
+    "text": ">> They're tired, boys.",
+    "index": "319",
+    "timestamp": "00:13:24,871 --> 00:13:26,439",
+    "start": 804871,
+    "end": 806439
+  },
+  {
+    "text": "They're tired, let's go.",
+    "index": "320",
+    "timestamp": "00:13:26,439 --> 00:13:28,274",
+    "start": 806439,
+    "end": 808274
+  },
+  {
+    "text": ">> Third down and long here.",
+    "index": "321",
+    "timestamp": "00:13:28,274 --> 00:13:29,642",
+    "start": 808274,
+    "end": 809642
+  },
+  {
+    "text": "Now you're looking at a third<br>and nine from the 13-yard line.",
+    "index": "322",
+    "timestamp": "00:13:29,642 --> 00:13:32,812",
+    "start": 809642,
+    "end": 812812
+  },
+  {
+    "text": "Left side caught by Edelman.",
+    "index": "323",
+    "timestamp": "00:13:32,812 --> 00:13:34,147",
+    "start": 812812,
+    "end": 814147
+  },
+  {
+    "text": "Steady as he goes at the 20.",
+    "index": "324",
+    "timestamp": "00:13:34,147 --> 00:13:35,648",
+    "start": 814147,
+    "end": 815648
+  },
+  {
+    "text": "He's out of bounds left<br>side with the first down.",
+    "index": "325",
+    "timestamp": "00:13:35,648 --> 00:13:38,618",
+    "start": 815648,
+    "end": 818618
+  },
+  {
+    "text": ">> You gotta go quick.",
+    "index": "326",
+    "timestamp": "00:13:38,618 --> 00:13:39,585",
+    "start": 818618,
+    "end": 819585
+  },
+  {
+    "text": "You got it.",
+    "index": "327",
+    "timestamp": "00:13:39,585 --> 00:13:40,653",
+    "start": 819585,
+    "end": 820653
+  },
+  {
+    "text": ">> 11-yard pickup<br>on third and nine.",
+    "index": "328",
+    "timestamp": "00:13:40,653 --> 00:13:43,156",
+    "start": 820653,
+    "end": 823156
+  },
+  {
+    "text": ">> Brady turns and<br>gives to Michel.",
+    "index": "329",
+    "timestamp": "00:13:43,156 --> 00:13:44,390",
+    "start": 823156,
+    "end": 824390
+  },
+  {
+    "text": "Hit on the back.",
+    "index": "330",
+    "timestamp": "00:13:44,390 --> 00:13:46,059",
+    "start": 824390,
+    "end": 826059
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "331",
+    "timestamp": "00:13:47,794 --> 00:13:51,564",
+    "start": 827794,
+    "end": 831564
+  },
+  {
+    "text": ">> We talked<br>about being physical.",
+    "index": "332",
+    "timestamp": "00:13:51,564 --> 00:13:53,366",
+    "start": 831564,
+    "end": 833366
+  },
+  {
+    "text": "That's what that<br>type of play was.",
+    "index": "333",
+    "timestamp": "00:13:53,366 --> 00:13:55,668",
+    "start": 833366,
+    "end": 835668
+  },
+  {
+    "text": ">> Settle down, everybody.",
+    "index": "334",
+    "timestamp": "00:13:55,668 --> 00:13:57,670",
+    "start": 835668,
+    "end": 837670
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "335",
+    "timestamp": "00:13:57,670 --> 00:14:11,084",
+    "start": 837670,
+    "end": 851084
+  },
+  {
+    "text": ">> Either offense could<br>get out of their own way.",
+    "index": "336",
+    "timestamp": "00:14:11,084 --> 00:14:12,752",
+    "start": 851084,
+    "end": 852752
+  },
+  {
+    "text": "At least in wiggling,<br>it's moving the ball.",
+    "index": "337",
+    "timestamp": "00:14:12,752 --> 00:14:15,188",
+    "start": 852752,
+    "end": 855188
+  },
+  {
+    "text": ">> Gronkowski wide open,<br>crossing right to left.",
+    "index": "338",
+    "timestamp": "00:14:15,188 --> 00:14:17,090",
+    "start": 855188,
+    "end": 857090
+  },
+  {
+    "text": "Touched his arm against Peters.",
+    "index": "339",
+    "timestamp": "00:14:17,090 --> 00:14:19,258",
+    "start": 857090,
+    "end": 859258
+  },
+  {
+    "text": ">> He's a grown<br>man row right there.",
+    "index": "340",
+    "timestamp": "00:14:19,258 --> 00:14:21,728",
+    "start": 859258,
+    "end": 861728
+  },
+  {
+    "text": ">> A 46-yard attempt<br>from the right pass.",
+    "index": "341",
+    "timestamp": "00:14:21,728 --> 00:14:23,663",
+    "start": 861728,
+    "end": 863663
+  },
+  {
+    "text": "Gostkowski ready, good snap.",
+    "index": "342",
+    "timestamp": "00:14:23,663 --> 00:14:26,432",
+    "start": 863663,
+    "end": 866432
+  },
+  {
+    "text": "Kick clears the line.",
+    "index": "343",
+    "timestamp": "00:14:26,432 --> 00:14:27,900",
+    "start": 866432,
+    "end": 867900
+  },
+  {
+    "text": "And it is --",
+    "index": "344",
+    "timestamp": "00:14:27,900 --> 00:14:30,169",
+    "start": 867900,
+    "end": 870169
+  },
+  {
+    "text": ">> He missed it.",
+    "index": "345",
+    "timestamp": "00:14:30,169 --> 00:14:31,137",
+    "start": 870169,
+    "end": 871137
+  },
+  {
+    "text": ">> No good.",
+    "index": "346",
+    "timestamp": "00:14:31,137 --> 00:14:33,406",
+    "start": 871137,
+    "end": 873406
+  },
+  {
+    "text": ">> Yes.",
+    "index": "347",
+    "timestamp": "00:14:33,406 --> 00:14:35,041",
+    "start": 873406,
+    "end": 875041
+  },
+  {
+    "text": ">> Nope.",
+    "index": "348",
+    "timestamp": "00:14:35,041 --> 00:14:36,576",
+    "start": 875041,
+    "end": 876576
+  },
+  {
+    "text": ">> We're still scoreless here<br>in the opening quarter",
+    "index": "349",
+    "timestamp": "00:14:36,576 --> 00:14:38,511",
+    "start": 876576,
+    "end": 878511
+  },
+  {
+    "text": "of Super Bowl LIII.",
+    "index": "350",
+    "timestamp": "00:14:38,511 --> 00:14:40,713",
+    "start": 878511,
+    "end": 880713
+  },
+  {
+    "text": ">> How you guys do up here.",
+    "index": "351",
+    "timestamp": "00:14:40,713 --> 00:14:42,648",
+    "start": 880713,
+    "end": 882648
+  },
+  {
+    "text": "Motion and out.",
+    "index": "352",
+    "timestamp": "00:14:42,648 --> 00:14:44,417",
+    "start": 882648,
+    "end": 884417
+  },
+  {
+    "text": ">> Edelman is wide open,<br>makes the catch at the 50.",
+    "index": "353",
+    "timestamp": "00:14:46,452 --> 00:14:48,788",
+    "start": 886452,
+    "end": 888788
+  },
+  {
+    "text": "Stutter step to<br>the 45, out of bounds.",
+    "index": "354",
+    "timestamp": "00:14:48,788 --> 00:14:52,892",
+    "start": 888788,
+    "end": 892892
+  },
+  {
+    "text": ">> Edelman is<br>killing whoever is on him.",
+    "index": "355",
+    "timestamp": "00:14:52,892 --> 00:14:56,229",
+    "start": 892892,
+    "end": 896229
+  },
+  {
+    "text": ">> Good timing<br>route, one, two, three,",
+    "index": "356",
+    "timestamp": "00:14:56,229 --> 00:14:57,697",
+    "start": 896229,
+    "end": 897697
+  },
+  {
+    "text": "boom.",
+    "index": "357",
+    "timestamp": "00:14:57,697 --> 00:15:00,867",
+    "start": 897697,
+    "end": 900867
+  },
+  {
+    "text": ">> Julian Edelman already<br>closing in on 100 yards",
+    "index": "358",
+    "timestamp": "00:15:00,867 --> 00:15:02,902",
+    "start": 900867,
+    "end": 902902
+  },
+  {
+    "text": "receiving in this opening half.",
+    "index": "359",
+    "timestamp": "00:15:02,902 --> 00:15:05,071",
+    "start": 902902,
+    "end": 905071
+  },
+  {
+    "text": "Only Jerry Rice has caught<br>more passes in the post season.",
+    "index": "360",
+    "timestamp": "00:15:05,071 --> 00:15:08,407",
+    "start": 905071,
+    "end": 908407
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "361",
+    "timestamp": "00:15:08,407 --> 00:15:21,354",
+    "start": 908407,
+    "end": 921354
+  },
+  {
+    "text": ">> Hey, Jules. Hey, Jules.",
+    "index": "362",
+    "timestamp": "00:15:21,354 --> 00:15:25,124",
+    "start": 921354,
+    "end": 925124
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "363",
+    "timestamp": "00:15:25,124 --> 00:15:27,693",
+    "start": 925124,
+    "end": 927693
+  },
+  {
+    "text": ">> Brady from a clean<br>platform has to back up now.",
+    "index": "364",
+    "timestamp": "00:15:27,693 --> 00:15:30,730",
+    "start": 927693,
+    "end": 930730
+  },
+  {
+    "text": "Cover is breaking down.",
+    "index": "365",
+    "timestamp": "00:15:30,730 --> 00:15:32,098",
+    "start": 930730,
+    "end": 932098
+  },
+  {
+    "text": "The ball is on the deck.",
+    "index": "366",
+    "timestamp": "00:15:32,098 --> 00:15:33,166",
+    "start": 932098,
+    "end": 933166
+  },
+  {
+    "text": "He's sacked, and it looks<br>like the Patriots dove on it.",
+    "index": "367",
+    "timestamp": "00:15:33,166 --> 00:15:37,503",
+    "start": 933166,
+    "end": 937503
+  },
+  {
+    "text": ">> It's time to<br>get some points now.",
+    "index": "368",
+    "timestamp": "00:15:37,503 --> 00:15:39,338",
+    "start": 937503,
+    "end": 939338
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "369",
+    "timestamp": "00:15:39,338 --> 00:15:45,611",
+    "start": 939338,
+    "end": 945611
+  },
+  {
+    "text": "[CHEERING]",
+    "index": "370",
+    "timestamp": "00:15:45,611 --> 00:15:49,315",
+    "start": 945611,
+    "end": 949315
+  },
+  {
+    "text": ">> Field goal range now.",
+    "index": "371",
+    "timestamp": "00:15:49,315 --> 00:15:50,783",
+    "start": 949315,
+    "end": 950783
+  },
+  {
+    "text": ">> Patriots, second time today,<br>will ask Stephen Gostkowski",
+    "index": "372",
+    "timestamp": "00:15:50,783 --> 00:15:54,453",
+    "start": 950783,
+    "end": 954453
+  },
+  {
+    "text": "to deliver the<br>game's first points.",
+    "index": "373",
+    "timestamp": "00:15:54,453 --> 00:15:56,589",
+    "start": 954453,
+    "end": 956589
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "374",
+    "timestamp": "00:15:56,589 --> 00:15:59,125",
+    "start": 956589,
+    "end": 959125
+  },
+  {
+    "text": ">> And the kick is good.",
+    "index": "375",
+    "timestamp": "00:15:59,125 --> 00:16:01,761",
+    "start": 959125,
+    "end": 961761
+  },
+  {
+    "text": ">> Hey, real quick.",
+    "index": "376",
+    "timestamp": "00:16:03,229 --> 00:16:04,397",
+    "start": 963229,
+    "end": 964397
+  },
+  {
+    "text": "Here's the thing<br>that we can do now.",
+    "index": "377",
+    "timestamp": "00:16:04,397 --> 00:16:05,631",
+    "start": 964397,
+    "end": 965631
+  },
+  {
+    "text": "This is what's beautiful<br>about what we got going.",
+    "index": "378",
+    "timestamp": "00:16:05,631 --> 00:16:08,100",
+    "start": 965631,
+    "end": 968100
+  },
+  {
+    "text": "Defense is playing<br>really well, okay?",
+    "index": "379",
+    "timestamp": "00:16:08,100 --> 00:16:10,736",
+    "start": 968100,
+    "end": 970736
+  },
+  {
+    "text": "Just take a deep breath.",
+    "index": "380",
+    "timestamp": "00:16:10,736 --> 00:16:12,338",
+    "start": 970736,
+    "end": 972338
+  },
+  {
+    "text": "Do what we've always<br>talked about, all right?",
+    "index": "381",
+    "timestamp": "00:16:12,338 --> 00:16:14,674",
+    "start": 972338,
+    "end": 974674
+  },
+  {
+    "text": "We don't need to<br>make anything up.",
+    "index": "382",
+    "timestamp": "00:16:14,674 --> 00:16:16,309",
+    "start": 974674,
+    "end": 976309
+  },
+  {
+    "text": "We do a great job communicating.",
+    "index": "383",
+    "timestamp": "00:16:16,309 --> 00:16:17,844",
+    "start": 976309,
+    "end": 977844
+  },
+  {
+    "text": "It starts with me.",
+    "index": "384",
+    "timestamp": "00:16:17,844 --> 00:16:19,045",
+    "start": 977844,
+    "end": 979045
+  },
+  {
+    "text": "We get efficient runs,<br>and we get into some tempo.",
+    "index": "385",
+    "timestamp": "00:16:19,045 --> 00:16:22,114",
+    "start": 979045,
+    "end": 982114
+  },
+  {
+    "text": "We're not allowing ourselves<br>to get in any sort of rhythm.",
+    "index": "386",
+    "timestamp": "00:16:22,114 --> 00:16:24,450",
+    "start": 982114,
+    "end": 984450
+  },
+  {
+    "text": "But if we do that, we know how<br>quickly we can flip the switch",
+    "index": "387",
+    "timestamp": "00:16:24,450 --> 00:16:27,153",
+    "start": 984450,
+    "end": 987153
+  },
+  {
+    "text": "on people, all right?",
+    "index": "388",
+    "timestamp": "00:16:27,153 --> 00:16:28,821",
+    "start": 987153,
+    "end": 988821
+  },
+  {
+    "text": "So everybody take a deep breath.",
+    "index": "389",
+    "timestamp": "00:16:28,821 --> 00:16:30,289",
+    "start": 988821,
+    "end": 990289
+  },
+  {
+    "text": "Starting over, let's go.",
+    "index": "390",
+    "timestamp": "00:16:30,289 --> 00:16:31,657",
+    "start": 990289,
+    "end": 991657
+  },
+  {
+    "text": ">> Let's execute, we're good.",
+    "index": "391",
+    "timestamp": "00:16:31,657 --> 00:16:33,693",
+    "start": 991657,
+    "end": 993693
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "392",
+    "timestamp": "00:16:33,693 --> 00:16:37,396",
+    "start": 993693,
+    "end": 997396
+  },
+  {
+    "text": ">> Best second<br>half we got, let's go.",
+    "index": "393",
+    "timestamp": "00:16:37,396 --> 00:16:39,131",
+    "start": 997396,
+    "end": 999131
+  },
+  {
+    "text": ">> Hey, nice and<br>easy, one play at a time.",
+    "index": "394",
+    "timestamp": "00:16:39,131 --> 00:16:40,733",
+    "start": 999131,
+    "end": 1000733
+  },
+  {
+    "text": "It's just like we<br>haven't played a snap yet.",
+    "index": "395",
+    "timestamp": "00:16:40,733 --> 00:16:42,668",
+    "start": 1000733,
+    "end": 1002668
+  },
+  {
+    "text": "That's the mindset we take.",
+    "index": "396",
+    "timestamp": "00:16:42,668 --> 00:16:44,003",
+    "start": 1002668,
+    "end": 1004003
+  },
+  {
+    "text": ">> Second down<br>and ten to the 25.",
+    "index": "397",
+    "timestamp": "00:16:44,003 --> 00:16:46,239",
+    "start": 1004003,
+    "end": 1006239
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "398",
+    "timestamp": "00:16:46,239 --> 00:16:49,976",
+    "start": 1006239,
+    "end": 1009976
+  },
+  {
+    "text": ">> Todd Gurley<br>gets the Rams going.",
+    "index": "399",
+    "timestamp": "00:16:49,976 --> 00:16:52,445",
+    "start": 1009976,
+    "end": 1012445
+  },
+  {
+    "text": ">> We gotta tell them<br>to play quicker now.",
+    "index": "400",
+    "timestamp": "00:16:52,445 --> 00:16:53,746",
+    "start": 1012445,
+    "end": 1013746
+  },
+  {
+    "text": "They've got a tempo going.",
+    "index": "401",
+    "timestamp": "00:16:53,746 --> 00:16:54,847",
+    "start": 1013746,
+    "end": 1014847
+  },
+  {
+    "text": "We're kind of a<br>little lagging on that.",
+    "index": "402",
+    "timestamp": "00:16:54,847 --> 00:16:58,084",
+    "start": 1014847,
+    "end": 1018084
+  },
+  {
+    "text": ">> Third down and seven.",
+    "index": "403",
+    "timestamp": "00:16:58,084 --> 00:17:01,354",
+    "start": 1018084,
+    "end": 1021354
+  },
+  {
+    "text": ">> Caught by Robert Woods.",
+    "index": "404",
+    "timestamp": "00:17:01,354 --> 00:17:04,590",
+    "start": 1021354,
+    "end": 1024590
+  },
+  {
+    "text": ">> As bad as he's<br>played tonight,",
+    "index": "405",
+    "timestamp": "00:17:04,590 --> 00:17:06,225",
+    "start": 1024590,
+    "end": 1026225
+  },
+  {
+    "text": "all you gotta do<br>is make one throw,",
+    "index": "406",
+    "timestamp": "00:17:06,225 --> 00:17:07,426",
+    "start": 1026225,
+    "end": 1027426
+  },
+  {
+    "text": "and you're in this game.",
+    "index": "407",
+    "timestamp": "00:17:07,426 --> 00:17:08,995",
+    "start": 1027426,
+    "end": 1028995
+  },
+  {
+    "text": ">> Played fake,<br>Goff by the drop.",
+    "index": "408",
+    "timestamp": "00:17:10,263 --> 00:17:11,797",
+    "start": 1030263,
+    "end": 1031797
+  },
+  {
+    "text": "Pass time, shuffles left,<br>throws to the end zone.",
+    "index": "409",
+    "timestamp": "00:17:11,797 --> 00:17:14,000",
+    "start": 1031797,
+    "end": 1034000
+  },
+  {
+    "text": "Wide open receiver Cooks, and<br>the ball is knocked incomplete.",
+    "index": "410",
+    "timestamp": "00:17:14,000 --> 00:17:17,837",
+    "start": 1034000,
+    "end": 1037837
+  },
+  {
+    "text": "[CHEERING]",
+    "index": "411",
+    "timestamp": "00:17:17,837 --> 00:17:20,139",
+    "start": 1037837,
+    "end": 1040139
+  },
+  {
+    "text": ">> Cooks does a great job<br>throwing his hand up.",
+    "index": "412",
+    "timestamp": "00:17:20,139 --> 00:17:22,642",
+    "start": 1040139,
+    "end": 1042642
+  },
+  {
+    "text": "He sees no coverage<br>back here, no safety.",
+    "index": "413",
+    "timestamp": "00:17:22,642 --> 00:17:25,211",
+    "start": 1042642,
+    "end": 1045211
+  },
+  {
+    "text": "Throws the hand up.",
+    "index": "414",
+    "timestamp": "00:17:25,211 --> 00:17:26,312",
+    "start": 1045211,
+    "end": 1046312
+  },
+  {
+    "text": "Goff sees it late.",
+    "index": "415",
+    "timestamp": "00:17:26,312 --> 00:17:28,114",
+    "start": 1046312,
+    "end": 1048114
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "416",
+    "timestamp": "00:17:28,114 --> 00:17:31,250",
+    "start": 1048114,
+    "end": 1051250
+  },
+  {
+    "text": ">> He was<br>underneath the goal post,",
+    "index": "417",
+    "timestamp": "00:17:31,250 --> 00:17:32,818",
+    "start": 1051250,
+    "end": 1052818
+  },
+  {
+    "text": "and when Goff let it go,<br>there wasn't a Patriot",
+    "index": "418",
+    "timestamp": "00:17:32,818 --> 00:17:35,288",
+    "start": 1052818,
+    "end": 1055288
+  },
+  {
+    "text": "within ten yards.",
+    "index": "419",
+    "timestamp": "00:17:35,288 --> 00:17:36,789",
+    "start": 1055288,
+    "end": 1056789
+  },
+  {
+    "text": "Jason McCourty closed quickly.",
+    "index": "420",
+    "timestamp": "00:17:36,789 --> 00:17:39,091",
+    "start": 1056789,
+    "end": 1059091
+  },
+  {
+    "text": "That should have been six.",
+    "index": "421",
+    "timestamp": "00:17:39,091 --> 00:17:41,694",
+    "start": 1059091,
+    "end": 1061694
+  },
+  {
+    "text": ">> He's pressured,<br>he's wrapped up,",
+    "index": "422",
+    "timestamp": "00:17:41,694 --> 00:17:43,396",
+    "start": 1061694,
+    "end": 1063396
+  },
+  {
+    "text": "and he's throwing<br>back for a loss.",
+    "index": "423",
+    "timestamp": "00:17:43,396 --> 00:17:45,364",
+    "start": 1063396,
+    "end": 1065364
+  },
+  {
+    "text": "Dont'a Hightower.",
+    "index": "424",
+    "timestamp": "00:17:45,364 --> 00:17:47,133",
+    "start": 1065364,
+    "end": 1067133
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "425",
+    "timestamp": "00:17:47,133 --> 00:17:49,936",
+    "start": 1067133,
+    "end": 1069936
+  },
+  {
+    "text": ">> Instead of a<br>44-yard attempt,",
+    "index": "426",
+    "timestamp": "00:17:49,936 --> 00:17:51,404",
+    "start": 1069936,
+    "end": 1071404
+  },
+  {
+    "text": "it turns into a 53-yard try.",
+    "index": "427",
+    "timestamp": "00:17:51,404 --> 00:17:56,609",
+    "start": 1071404,
+    "end": 1076609
+  },
+  {
+    "text": ">> Got it, to tie the<br>game in the third quarter,",
+    "index": "428",
+    "timestamp": "00:17:56,609 --> 00:17:59,812",
+    "start": 1076609,
+    "end": 1079812
+  },
+  {
+    "text": "with 2:11 remaining.",
+    "index": "429",
+    "timestamp": "00:17:59,812 --> 00:18:02,415",
+    "start": 1079812,
+    "end": 1082415
+  },
+  {
+    "text": "Three apiece.",
+    "index": "430",
+    "timestamp": "00:18:02,415 --> 00:18:03,883",
+    "start": 1082415,
+    "end": 1083883
+  },
+  {
+    "text": "The Rams have<br>found their footing.",
+    "index": "431",
+    "timestamp": "00:18:03,883 --> 00:18:06,018",
+    "start": 1083883,
+    "end": 1086018
+  },
+  {
+    "text": ">> Don't get frustrated.",
+    "index": "432",
+    "timestamp": "00:18:06,018 --> 00:18:07,353",
+    "start": 1086018,
+    "end": 1087353
+  },
+  {
+    "text": "10, 25 minutes there, okay?",
+    "index": "433",
+    "timestamp": "00:18:07,353 --> 00:18:09,355",
+    "start": 1087353,
+    "end": 1089355
+  },
+  {
+    "text": "Ten points going<br>to win this thing, okay?",
+    "index": "434",
+    "timestamp": "00:18:09,355 --> 00:18:11,524",
+    "start": 1089355,
+    "end": 1091524
+  },
+  {
+    "text": ">> All right, hold<br>up, hold up, hold up,",
+    "index": "435",
+    "timestamp": "00:18:11,524 --> 00:18:12,591",
+    "start": 1091524,
+    "end": 1092591
+  },
+  {
+    "text": "hold up.",
+    "index": "436",
+    "timestamp": "00:18:12,591 --> 00:18:13,492",
+    "start": 1092591,
+    "end": 1093492
+  },
+  {
+    "text": "Let's go, defense, let's go.",
+    "index": "437",
+    "timestamp": "00:18:13,492 --> 00:18:14,961",
+    "start": 1093492,
+    "end": 1094961
+  },
+  {
+    "text": "Defense, defense, let's go.",
+    "index": "438",
+    "timestamp": "00:18:14,961 --> 00:18:18,764",
+    "start": 1094961,
+    "end": 1098764
+  },
+  {
+    "text": "We gotta get back<br>on the line of scrimmage,",
+    "index": "439",
+    "timestamp": "00:18:18,764 --> 00:18:20,666",
+    "start": 1098764,
+    "end": 1100666
+  },
+  {
+    "text": "get the call, get lined up.",
+    "index": "440",
+    "timestamp": "00:18:20,666 --> 00:18:23,269",
+    "start": 1100666,
+    "end": 1103269
+  },
+  {
+    "text": "We missed a double.",
+    "index": "441",
+    "timestamp": "00:18:23,269 --> 00:18:24,437",
+    "start": 1103269,
+    "end": 1104437
+  },
+  {
+    "text": "We missed a post.",
+    "index": "442",
+    "timestamp": "00:18:24,437 --> 00:18:25,705",
+    "start": 1104437,
+    "end": 1105705
+  },
+  {
+    "text": "Okay, we just gotta get it<br>communicated and play faster,",
+    "index": "443",
+    "timestamp": "00:18:25,705 --> 00:18:28,708",
+    "start": 1105705,
+    "end": 1108708
+  },
+  {
+    "text": "all right?",
+    "index": "444",
+    "timestamp": "00:18:28,708 --> 00:18:30,009",
+    "start": 1108708,
+    "end": 1110009
+  },
+  {
+    "text": "We had no problems with anything<br>if we just get it lined up right",
+    "index": "445",
+    "timestamp": "00:18:30,009 --> 00:18:33,479",
+    "start": 1110009,
+    "end": 1113479
+  },
+  {
+    "text": "and do it.",
+    "index": "446",
+    "timestamp": "00:18:33,479 --> 00:18:34,847",
+    "start": 1113479,
+    "end": 1114847
+  },
+  {
+    "text": ">> 15 minutes, boys.",
+    "index": "447",
+    "timestamp": "00:18:34,847 --> 00:18:36,449",
+    "start": 1114847,
+    "end": 1116449
+  },
+  {
+    "text": ">> This is the first Super<br>Bowl without a touchdown scored",
+    "index": "448",
+    "timestamp": "00:18:37,583 --> 00:18:39,919",
+    "start": 1117583,
+    "end": 1119919
+  },
+  {
+    "text": "entering the fourth quarter, and<br>the fewest points through",
+    "index": "449",
+    "timestamp": "00:18:39,919 --> 00:18:43,055",
+    "start": 1119919,
+    "end": 1123055
+  },
+  {
+    "text": "three quarters in<br>Super Bowl history.",
+    "index": "450",
+    "timestamp": "00:18:43,055 --> 00:18:46,759",
+    "start": 1123055,
+    "end": 1126759
+  },
+  {
+    "text": ">> Let's go now, let's gets one.",
+    "index": "451",
+    "timestamp": "00:18:46,759 --> 00:18:48,294",
+    "start": 1126759,
+    "end": 1128294
+  },
+  {
+    "text": "We got it.",
+    "index": "452",
+    "timestamp": "00:18:48,294 --> 00:18:49,261",
+    "start": 1128294,
+    "end": 1129261
+  },
+  {
+    "text": "We have to.",
+    "index": "453",
+    "timestamp": "00:18:49,261 --> 00:18:50,396",
+    "start": 1129261,
+    "end": 1130396
+  },
+  {
+    "text": "Let's get this.",
+    "index": "454",
+    "timestamp": "00:18:50,396 --> 00:18:51,230",
+    "start": 1130396,
+    "end": 1131230
+  },
+  {
+    "text": "Hey Gronk, I need you.",
+    "index": "455",
+    "timestamp": "00:18:51,230 --> 00:18:52,798",
+    "start": 1131230,
+    "end": 1132798
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "456",
+    "timestamp": "00:18:52,798 --> 00:18:56,569",
+    "start": 1132798,
+    "end": 1136569
+  },
+  {
+    "text": ">> Brady stands and lobs<br>a throw to Gronkowski",
+    "index": "457",
+    "timestamp": "00:18:56,569 --> 00:18:58,137",
+    "start": 1136569,
+    "end": 1138137
+  },
+  {
+    "text": "down the right side line,<br>makes the catch.",
+    "index": "458",
+    "timestamp": "00:18:58,137 --> 00:19:01,340",
+    "start": 1138137,
+    "end": 1141340
+  },
+  {
+    "text": ">> Hey, he looks fresh.",
+    "index": "459",
+    "timestamp": "00:19:01,340 --> 00:19:03,643",
+    "start": 1141340,
+    "end": 1143643
+  },
+  {
+    "text": ">> Brady takes the<br>step, drops back,",
+    "index": "460",
+    "timestamp": "00:19:03,643 --> 00:19:05,277",
+    "start": 1143643,
+    "end": 1145277
+  },
+  {
+    "text": "stands, and throws to Edelman.",
+    "index": "461",
+    "timestamp": "00:19:05,277 --> 00:19:07,179",
+    "start": 1145277,
+    "end": 1147179
+  },
+  {
+    "text": "Makes the catch and then he<br>slides past the 40-yard line.",
+    "index": "462",
+    "timestamp": "00:19:07,179 --> 00:19:09,982",
+    "start": 1147179,
+    "end": 1149982
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "463",
+    "timestamp": "00:19:09,982 --> 00:19:12,084",
+    "start": 1149982,
+    "end": 1152084
+  },
+  {
+    "text": ">> Lobs a throw towards<br>Gronkowski, left side.",
+    "index": "464",
+    "timestamp": "00:19:12,084 --> 00:19:14,120",
+    "start": 1152084,
+    "end": 1154120
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "465",
+    "timestamp": "00:19:14,120 --> 00:19:17,423",
+    "start": 1154120,
+    "end": 1157423
+  },
+  {
+    "text": ">> Makes the catch.",
+    "index": "466",
+    "timestamp": "00:19:17,423 --> 00:19:18,524",
+    "start": 1157423,
+    "end": 1158524
+  },
+  {
+    "text": "Over two defenders,<br>tumbling to the two.",
+    "index": "467",
+    "timestamp": "00:19:18,524 --> 00:19:22,161",
+    "start": 1158524,
+    "end": 1162161
+  },
+  {
+    "text": ">> It's fourth quarter and it's<br>money time for the greatest guy",
+    "index": "468",
+    "timestamp": "00:19:22,161 --> 00:19:24,430",
+    "start": 1162161,
+    "end": 1164430
+  },
+  {
+    "text": "that ever suited up.",
+    "index": "469",
+    "timestamp": "00:19:24,430 --> 00:19:26,465",
+    "start": 1164430,
+    "end": 1166465
+  },
+  {
+    "text": "That throw to Gronkowski,<br>folks, that's one for posterity.",
+    "index": "470",
+    "timestamp": "00:19:26,465 --> 00:19:30,736",
+    "start": 1166465,
+    "end": 1170736
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "471",
+    "timestamp": "00:19:30,736 --> 00:19:37,043",
+    "start": 1170736,
+    "end": 1177043
+  },
+  {
+    "text": ">> 29 yards to the L.A. two.",
+    "index": "472",
+    "timestamp": "00:19:37,043 --> 00:19:39,812",
+    "start": 1177043,
+    "end": 1179812
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "473",
+    "timestamp": "00:19:39,812 --> 00:19:44,517",
+    "start": 1179812,
+    "end": 1184517
+  },
+  {
+    "text": ">> Gives to Michel.",
+    "index": "474",
+    "timestamp": "00:19:44,517 --> 00:19:45,217",
+    "start": 1184517,
+    "end": 1185217
+  },
+  {
+    "text": "Runs it left,<br>and down to the end zone.",
+    "index": "475",
+    "timestamp": "00:19:45,217 --> 00:19:47,753",
+    "start": 1185217,
+    "end": 1187753
+  },
+  {
+    "text": "Touchdown, Patriots.",
+    "index": "476",
+    "timestamp": "00:19:47,753 --> 00:19:49,622",
+    "start": 1187753,
+    "end": 1189622
+  },
+  {
+    "text": ">> That's the<br>offense I know.",
+    "index": "477",
+    "timestamp": "00:19:49,622 --> 00:19:51,357",
+    "start": 1189622,
+    "end": 1191357
+  },
+  {
+    "text": "That's the offense we love.",
+    "index": "478",
+    "timestamp": "00:19:51,357 --> 00:19:53,959",
+    "start": 1191357,
+    "end": 1193959
+  },
+  {
+    "text": "Brady, you give him the ball,<br>when the game's on the line.",
+    "index": "479",
+    "timestamp": "00:19:53,959 --> 00:19:56,796",
+    "start": 1193959,
+    "end": 1196796
+  },
+  {
+    "text": ">> Patriots have the lead,<br>10-3 in the seven-minute mark.",
+    "index": "480",
+    "timestamp": "00:19:56,796 --> 00:20:00,166",
+    "start": 1196796,
+    "end": 1200166
+  },
+  {
+    "text": ">> Let's keep it going.",
+    "index": "481",
+    "timestamp": "00:20:00,166 --> 00:20:01,233",
+    "start": 1200166,
+    "end": 1201233
+  },
+  {
+    "text": "They can't cover me.",
+    "index": "482",
+    "timestamp": "00:20:01,233 --> 00:20:03,903",
+    "start": 1201233,
+    "end": 1203903
+  },
+  {
+    "text": ">> The last job was on me.",
+    "index": "483",
+    "timestamp": "00:20:03,903 --> 00:20:06,505",
+    "start": 1203903,
+    "end": 1206505
+  },
+  {
+    "text": "I had two on the ones.",
+    "index": "484",
+    "timestamp": "00:20:06,505 --> 00:20:07,606",
+    "start": 1206505,
+    "end": 1207606
+  },
+  {
+    "text": "I didn't play.",
+    "index": "485",
+    "timestamp": "00:20:07,606 --> 00:20:09,975",
+    "start": 1207606,
+    "end": 1209975
+  },
+  {
+    "text": "I gotta win those.",
+    "index": "486",
+    "timestamp": "00:20:09,975 --> 00:20:10,876",
+    "start": 1209975,
+    "end": 1210876
+  },
+  {
+    "text": "If I only get a few,<br>I gotta win those.",
+    "index": "487",
+    "timestamp": "00:20:10,876 --> 00:20:12,611",
+    "start": 1210876,
+    "end": 1212611
+  },
+  {
+    "text": ">> Okay, look, we got about<br>maybe 15 calls left",
+    "index": "488",
+    "timestamp": "00:20:12,611 --> 00:20:15,214",
+    "start": 1212611,
+    "end": 1215214
+  },
+  {
+    "text": "in this game.",
+    "index": "489",
+    "timestamp": "00:20:15,214 --> 00:20:16,282",
+    "start": 1215214,
+    "end": 1216282
+  },
+  {
+    "text": "Let's go through and<br>get them right here.",
+    "index": "490",
+    "timestamp": "00:20:16,282 --> 00:20:17,983",
+    "start": 1216282,
+    "end": 1217983
+  },
+  {
+    "text": "Let's just know what<br>we're going to call here.",
+    "index": "491",
+    "timestamp": "00:20:17,983 --> 00:20:19,919",
+    "start": 1217983,
+    "end": 1219919
+  },
+  {
+    "text": "Make sure we have the<br>right personnel in the game.",
+    "index": "492",
+    "timestamp": "00:20:19,919 --> 00:20:21,654",
+    "start": 1219919,
+    "end": 1221654
+  },
+  {
+    "text": "We know what we're doing.",
+    "index": "493",
+    "timestamp": "00:20:21,654 --> 00:20:23,289",
+    "start": 1221654,
+    "end": 1223289
+  },
+  {
+    "text": ">> First and ten from the 25.",
+    "index": "494",
+    "timestamp": "00:20:24,690 --> 00:20:26,058",
+    "start": 1224690,
+    "end": 1226058
+  },
+  {
+    "text": "Brady puts in motion.",
+    "index": "495",
+    "timestamp": "00:20:26,058 --> 00:20:27,827",
+    "start": 1226058,
+    "end": 1227827
+  },
+  {
+    "text": "They play big.",
+    "index": "496",
+    "timestamp": "00:20:27,827 --> 00:20:28,761",
+    "start": 1227827,
+    "end": 1228761
+  },
+  {
+    "text": "They want to throw<br>back to that left side,",
+    "index": "497",
+    "timestamp": "00:20:28,761 --> 00:20:30,296",
+    "start": 1228761,
+    "end": 1230296
+  },
+  {
+    "text": "it's Cooks with the catch.",
+    "index": "498",
+    "timestamp": "00:20:30,296 --> 00:20:31,831",
+    "start": 1230296,
+    "end": 1231831
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "499",
+    "timestamp": "00:20:31,831 --> 00:20:33,866",
+    "start": 1231831,
+    "end": 1233866
+  },
+  {
+    "text": ">> And he's down up<br>at the 44-yard line.",
+    "index": "500",
+    "timestamp": "00:20:33,866 --> 00:20:36,802",
+    "start": 1233866,
+    "end": 1236802
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "501",
+    "timestamp": "00:20:36,802 --> 00:20:38,237",
+    "start": 1236802,
+    "end": 1238237
+  },
+  {
+    "text": ">> First and ten ran<br>from the 27 of New England.",
+    "index": "502",
+    "timestamp": "00:20:38,237 --> 00:20:39,972",
+    "start": 1238237,
+    "end": 1239972
+  },
+  {
+    "text": "Goff throws right<br>side over the top.",
+    "index": "503",
+    "timestamp": "00:20:39,972 --> 00:20:41,874",
+    "start": 1239972,
+    "end": 1241874
+  },
+  {
+    "text": "Looking for Cooks.",
+    "index": "504",
+    "timestamp": "00:20:41,874 --> 00:20:43,676",
+    "start": 1241874,
+    "end": 1243676
+  },
+  {
+    "text": "He's decked at the<br>goal line incomplete.",
+    "index": "505",
+    "timestamp": "00:20:43,676 --> 00:20:46,212",
+    "start": 1243676,
+    "end": 1246212
+  },
+  {
+    "text": ">> He's trying to make<br>a home run right now.",
+    "index": "506",
+    "timestamp": "00:20:48,347 --> 00:20:50,649",
+    "start": 1248347,
+    "end": 1250649
+  },
+  {
+    "text": ">> Now Goff with<br>three to the left.",
+    "index": "507",
+    "timestamp": "00:20:50,649 --> 00:20:52,118",
+    "start": 1250649,
+    "end": 1252118
+  },
+  {
+    "text": ">> They're coming<br>here, they're coming.",
+    "index": "508",
+    "timestamp": "00:20:52,118 --> 00:20:53,252",
+    "start": 1252118,
+    "end": 1253252
+  },
+  {
+    "text": ">> Harmon at a blitz.",
+    "index": "509",
+    "timestamp": "00:20:53,252 --> 00:20:53,886",
+    "start": 1253252,
+    "end": 1253886
+  },
+  {
+    "text": "Goff throws to the right.",
+    "index": "510",
+    "timestamp": "00:20:53,886 --> 00:20:54,854",
+    "start": 1253886,
+    "end": 1254854
+  },
+  {
+    "text": ">> Intercepted.",
+    "index": "511",
+    "timestamp": "00:20:54,854 --> 00:20:56,889",
+    "start": 1254854,
+    "end": 1256889
+  },
+  {
+    "text": ">> Gilmore's there,<br>intercepted at the four.",
+    "index": "512",
+    "timestamp": "00:20:56,889 --> 00:20:59,158",
+    "start": 1256889,
+    "end": 1259158
+  },
+  {
+    "text": ">> Yes.",
+    "index": "513",
+    "timestamp": "00:20:59,158 --> 00:21:02,128",
+    "start": 1259158,
+    "end": 1262128
+  },
+  {
+    "text": "He's throwing it up.",
+    "index": "514",
+    "timestamp": "00:21:02,128 --> 00:21:02,862",
+    "start": 1262128,
+    "end": 1262862
+  },
+  {
+    "text": "We finally got him.",
+    "index": "515",
+    "timestamp": "00:21:02,862 --> 00:21:04,130",
+    "start": 1262862,
+    "end": 1264130
+  },
+  {
+    "text": ">> A number 16, you know<br>the kid was going to crack,",
+    "index": "516",
+    "timestamp": "00:21:04,130 --> 00:21:08,167",
+    "start": 1264130,
+    "end": 1268167
+  },
+  {
+    "text": "and he did there.",
+    "index": "517",
+    "timestamp": "00:21:08,167 --> 00:21:10,202",
+    "start": 1268167,
+    "end": 1270202
+  },
+  {
+    "text": ">> Intercepted by<br>Stephon Gilmore.",
+    "index": "518",
+    "timestamp": "00:21:10,202 --> 00:21:14,173",
+    "start": 1270202,
+    "end": 1274173
+  },
+  {
+    "text": ">> Long way to go now.",
+    "index": "519",
+    "timestamp": "00:21:14,173 --> 00:21:15,141",
+    "start": 1274173,
+    "end": 1275141
+  },
+  {
+    "text": "We got a long way to go.",
+    "index": "520",
+    "timestamp": "00:21:15,141 --> 00:21:16,542",
+    "start": 1275141,
+    "end": 1276542
+  },
+  {
+    "text": ">> Four minutes,<br>17 seconds remain.",
+    "index": "521",
+    "timestamp": "00:21:16,542 --> 00:21:18,811",
+    "start": 1276542,
+    "end": 1278811
+  },
+  {
+    "text": ">> Hey, let's end it.",
+    "index": "522",
+    "timestamp": "00:21:18,811 --> 00:21:21,213",
+    "start": 1278811,
+    "end": 1281213
+  },
+  {
+    "text": ">> If we ever get a choice, we<br>don't want to go out of bounds.",
+    "index": "523",
+    "timestamp": "00:21:21,213 --> 00:21:23,582",
+    "start": 1281213,
+    "end": 1283582
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "524",
+    "timestamp": "00:21:23,582 --> 00:21:26,352",
+    "start": 1283582,
+    "end": 1286352
+  },
+  {
+    "text": ">> Shelton back,<br>takes the hand up.",
+    "index": "525",
+    "timestamp": "00:21:26,352 --> 00:21:27,486",
+    "start": 1286352,
+    "end": 1287486
+  },
+  {
+    "text": "Runs right, fake call,<br>past the 10 to the 15, 20.",
+    "index": "526",
+    "timestamp": "00:21:27,486 --> 00:21:31,290",
+    "start": 1287486,
+    "end": 1291290
+  },
+  {
+    "text": "First down, New England.",
+    "index": "527",
+    "timestamp": "00:21:31,290 --> 00:21:33,559",
+    "start": 1291290,
+    "end": 1293559
+  },
+  {
+    "text": ">> Brady runs a left big hole.",
+    "index": "528",
+    "timestamp": "00:21:33,559 --> 00:21:35,661",
+    "start": 1293559,
+    "end": 1295661
+  },
+  {
+    "text": "And the Rams past the 45,<br>40, tracked down from behind.",
+    "index": "529",
+    "timestamp": "00:21:35,661 --> 00:21:39,932",
+    "start": 1295661,
+    "end": 1299932
+  },
+  {
+    "text": ">> Third and one from<br>the 24, two minutes to go.",
+    "index": "530",
+    "timestamp": "00:21:39,932 --> 00:21:43,169",
+    "start": 1299932,
+    "end": 1303169
+  },
+  {
+    "text": "First down wins it.",
+    "index": "531",
+    "timestamp": "00:21:43,169 --> 00:21:44,803",
+    "start": 1303169,
+    "end": 1304803
+  },
+  {
+    "text": ">> One-and-a-half yards<br>to the Super Bowl, boys.",
+    "index": "532",
+    "timestamp": "00:21:44,803 --> 00:21:47,139",
+    "start": 1304803,
+    "end": 1307139
+  },
+  {
+    "text": "One and a half yards<br>to the Super Bowl.",
+    "index": "533",
+    "timestamp": "00:21:47,139 --> 00:21:49,108",
+    "start": 1307139,
+    "end": 1309108
+  },
+  {
+    "text": ">> And Sean McVay<br>cannot stop it.",
+    "index": "534",
+    "timestamp": "00:21:49,108 --> 00:21:50,876",
+    "start": 1309108,
+    "end": 1310876
+  },
+  {
+    "text": "He is out of time-outs.",
+    "index": "535",
+    "timestamp": "00:21:50,876 --> 00:21:53,445",
+    "start": 1310876,
+    "end": 1313445
+  },
+  {
+    "text": "Sony Michel gets the hand-off.",
+    "index": "536",
+    "timestamp": "00:21:54,513 --> 00:21:56,816",
+    "start": 1314513,
+    "end": 1316816
+  },
+  {
+    "text": "He gets through the left side.",
+    "index": "537",
+    "timestamp": "00:21:56,816 --> 00:21:58,217",
+    "start": 1316816,
+    "end": 1318217
+  },
+  {
+    "text": "It will be close.",
+    "index": "538",
+    "timestamp": "00:21:58,217 --> 00:21:59,852",
+    "start": 1318217,
+    "end": 1319852
+  },
+  {
+    "text": "It is short.",
+    "index": "539",
+    "timestamp": "00:21:59,852 --> 00:22:01,987",
+    "start": 1319852,
+    "end": 1321987
+  },
+  {
+    "text": "By a chain, maybe two.",
+    "index": "540",
+    "timestamp": "00:22:01,987 --> 00:22:04,390",
+    "start": 1321987,
+    "end": 1324390
+  },
+  {
+    "text": ">> If you're Bill Belichick, are<br>you kicking a field goal",
+    "index": "541",
+    "timestamp": "00:22:04,390 --> 00:22:06,192",
+    "start": 1324390,
+    "end": 1326192
+  },
+  {
+    "text": "to make it a two-score game?",
+    "index": "542",
+    "timestamp": "00:22:06,192 --> 00:22:07,593",
+    "start": 1326192,
+    "end": 1327593
+  },
+  {
+    "text": "Or are you going for it<br>on fourth and inches?",
+    "index": "543",
+    "timestamp": "00:22:07,593 --> 00:22:11,130",
+    "start": 1327593,
+    "end": 1331130
+  },
+  {
+    "text": ">> Six-two, I can't<br>call a time-out.",
+    "index": "544",
+    "timestamp": "00:22:11,130 --> 00:22:13,332",
+    "start": 1331130,
+    "end": 1333332
+  },
+  {
+    "text": "Let's just kick the field goal.",
+    "index": "545",
+    "timestamp": "00:22:13,332 --> 00:22:15,067",
+    "start": 1333332,
+    "end": 1335067
+  },
+  {
+    "text": ">> You good on the field goal?",
+    "index": "546",
+    "timestamp": "00:22:15,067 --> 00:22:16,936",
+    "start": 1335067,
+    "end": 1336936
+  },
+  {
+    "text": ">> We'll give them a field goal.",
+    "index": "547",
+    "timestamp": "00:22:16,936 --> 00:22:18,037",
+    "start": 1336936,
+    "end": 1338037
+  },
+  {
+    "text": ">> 40-yarder, the game is over.",
+    "index": "548",
+    "timestamp": "00:22:18,037 --> 00:22:19,705",
+    "start": 1338037,
+    "end": 1339705
+  },
+  {
+    "text": ">> Yeah, all right, let's go.",
+    "index": "549",
+    "timestamp": "00:22:19,705 --> 00:22:21,874",
+    "start": 1339705,
+    "end": 1341874
+  },
+  {
+    "text": ">> The Patriots are going<br>to send Gostkowski out.",
+    "index": "550",
+    "timestamp": "00:22:21,874 --> 00:22:24,443",
+    "start": 1341874,
+    "end": 1344443
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "551",
+    "timestamp": "00:22:24,443 --> 00:22:26,345",
+    "start": 1344443,
+    "end": 1346345
+  },
+  {
+    "text": "This will be a 41-yard attempt.",
+    "index": "552",
+    "timestamp": "00:22:26,345 --> 00:22:29,448",
+    "start": 1346345,
+    "end": 1349448
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "553",
+    "timestamp": "00:22:29,448 --> 00:22:31,283",
+    "start": 1349448,
+    "end": 1351283
+  },
+  {
+    "text": ">> Kick driven to the<br>uprights, and the kick is good.",
+    "index": "554",
+    "timestamp": "00:22:31,283 --> 00:22:36,188",
+    "start": 1351283,
+    "end": 1356188
+  },
+  {
+    "text": "To a possession game.",
+    "index": "555",
+    "timestamp": "00:22:36,188 --> 00:22:38,757",
+    "start": 1356188,
+    "end": 1358757
+  },
+  {
+    "text": ">> With one minute, 12 seconds,<br>and no Rams time-outs to go.",
+    "index": "556",
+    "timestamp": "00:22:40,092 --> 00:22:45,998",
+    "start": 1360092,
+    "end": 1365998
+  },
+  {
+    "text": ">> Two-minute plays.",
+    "index": "557",
+    "timestamp": "00:22:45,998 --> 00:22:47,099",
+    "start": 1365998,
+    "end": 1367099
+  },
+  {
+    "text": "Take what they<br>get you and get up.",
+    "index": "558",
+    "timestamp": "00:22:47,099 --> 00:22:48,567",
+    "start": 1367099,
+    "end": 1368567
+  },
+  {
+    "text": "We can get the ball<br>down the field much faster.",
+    "index": "559",
+    "timestamp": "00:22:48,567 --> 00:22:50,803",
+    "start": 1368567,
+    "end": 1370803
+  },
+  {
+    "text": "We got a chance to<br>get a field goal",
+    "index": "560",
+    "timestamp": "00:22:50,803 --> 00:22:52,004",
+    "start": 1370803,
+    "end": 1372004
+  },
+  {
+    "text": "and recover an onside kick.",
+    "index": "561",
+    "timestamp": "00:22:52,004 --> 00:22:54,106",
+    "start": 1372004,
+    "end": 1374106
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "562",
+    "timestamp": "00:22:54,106 --> 00:22:56,442",
+    "start": 1374106,
+    "end": 1376442
+  },
+  {
+    "text": ">> Snap back to Jared.",
+    "index": "563",
+    "timestamp": "00:22:56,442 --> 00:22:57,977",
+    "start": 1376442,
+    "end": 1377977
+  },
+  {
+    "text": "Steps up to throw.",
+    "index": "564",
+    "timestamp": "00:22:57,977 --> 00:22:59,144",
+    "start": 1377977,
+    "end": 1379144
+  },
+  {
+    "text": "Middle of the field,<br>Brandin Cooks.",
+    "index": "565",
+    "timestamp": "00:22:59,144 --> 00:23:00,879",
+    "start": 1379144,
+    "end": 1380879
+  },
+  {
+    "text": "Up to the 45, spun<br>down, 35 seconds remaining.",
+    "index": "566",
+    "timestamp": "00:23:00,879 --> 00:23:04,516",
+    "start": 1380879,
+    "end": 1384516
+  },
+  {
+    "text": "Gets a three-man rush.",
+    "index": "567",
+    "timestamp": "00:23:04,516 --> 00:23:05,985",
+    "start": 1384516,
+    "end": 1385985
+  },
+  {
+    "text": "He pushes one down<br>the middle, left seam.",
+    "index": "568",
+    "timestamp": "00:23:05,985 --> 00:23:07,820",
+    "start": 1385985,
+    "end": 1387820
+  },
+  {
+    "text": "It's jumbled and caught by<br>Brandin Cooks at the 30.",
+    "index": "569",
+    "timestamp": "00:23:07,820 --> 00:23:10,456",
+    "start": 1387820,
+    "end": 1390456
+  },
+  {
+    "text": ">> Clock, clock,<br>clock, clock, clock,",
+    "index": "570",
+    "timestamp": "00:23:10,456 --> 00:23:11,624",
+    "start": 1390456,
+    "end": 1391624
+  },
+  {
+    "text": "clock, clock, clock.",
+    "index": "571",
+    "timestamp": "00:23:11,624 --> 00:23:13,325",
+    "start": 1391624,
+    "end": 1393325
+  },
+  {
+    "text": ">> Goff will<br>clock it with eight.",
+    "index": "572",
+    "timestamp": "00:23:13,325 --> 00:23:15,494",
+    "start": 1393325,
+    "end": 1395494
+  },
+  {
+    "text": ">> Field goal,<br>once they kick it.",
+    "index": "573",
+    "timestamp": "00:23:15,494 --> 00:23:17,296",
+    "start": 1395494,
+    "end": 1397296
+  },
+  {
+    "text": ">> Rams are going to<br>send out Zuerlein.",
+    "index": "574",
+    "timestamp": "00:23:17,296 --> 00:23:20,899",
+    "start": 1397296,
+    "end": 1400899
+  },
+  {
+    "text": "This makes sense.",
+    "index": "575",
+    "timestamp": "00:23:20,899 --> 00:23:21,900",
+    "start": 1400899,
+    "end": 1401900
+  },
+  {
+    "text": "It's a two-score game,<br>eight seconds to go.",
+    "index": "576",
+    "timestamp": "00:23:21,900 --> 00:23:23,535",
+    "start": 1401900,
+    "end": 1403535
+  },
+  {
+    "text": "It's in his range.",
+    "index": "577",
+    "timestamp": "00:23:23,535 --> 00:23:25,771",
+    "start": 1403535,
+    "end": 1405771
+  },
+  {
+    "text": "The kick by Zuerlein,<br>sailing to the uprights --",
+    "index": "578",
+    "timestamp": "00:23:25,771 --> 00:23:27,840",
+    "start": 1405771,
+    "end": 1407840
+  },
+  {
+    "text": ">> And the kick is no good.",
+    "index": "579",
+    "timestamp": "00:23:27,840 --> 00:23:30,175",
+    "start": 1407840,
+    "end": 1410175
+  },
+  {
+    "text": "[CHEERING]",
+    "index": "580",
+    "timestamp": "00:23:30,175 --> 00:23:31,644",
+    "start": 1410175,
+    "end": 1411644
+  },
+  {
+    "text": ">> Hey!",
+    "index": "581",
+    "timestamp": "00:23:31,644 --> 00:23:32,645",
+    "start": 1411644,
+    "end": 1412645
+  },
+  {
+    "text": ">> And the Patriots have won<br>their sixth Super Bowl title.",
+    "index": "582",
+    "timestamp": "00:23:32,645 --> 00:23:37,516",
+    "start": 1412645,
+    "end": 1417516
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "583",
+    "timestamp": "00:23:37,516 --> 00:23:40,219",
+    "start": 1417516,
+    "end": 1420219
+  },
+  {
+    "text": ">> This we're going<br>to have to build from,",
+    "index": "584",
+    "timestamp": "00:23:40,219 --> 00:23:41,954",
+    "start": 1420219,
+    "end": 1421954
+  },
+  {
+    "text": "let it sting, let it fuel<br>your off-season again,",
+    "index": "585",
+    "timestamp": "00:23:41,954 --> 00:23:44,890",
+    "start": 1421954,
+    "end": 1424890
+  },
+  {
+    "text": "and see if you can<br>make another run at it.",
+    "index": "586",
+    "timestamp": "00:23:44,890 --> 00:23:48,260",
+    "start": 1424890,
+    "end": 1428260
+  },
+  {
+    "text": ">> You guys are going to<br>be good for a long time.",
+    "index": "587",
+    "timestamp": "00:23:48,260 --> 00:23:49,561",
+    "start": 1428260,
+    "end": 1429561
+  },
+  {
+    "text": ">> Appreciate it, brother.",
+    "index": "588",
+    "timestamp": "00:23:49,561 --> 00:23:50,729",
+    "start": 1429561,
+    "end": 1430729
+  },
+  {
+    "text": ">> Great job.",
+    "index": "589",
+    "timestamp": "00:23:50,729 --> 00:23:51,463",
+    "start": 1430729,
+    "end": 1431463
+  },
+  {
+    "text": ">> You too.",
+    "index": "590",
+    "timestamp": "00:23:51,463 --> 00:23:52,298",
+    "start": 1431463,
+    "end": 1432298
+  },
+  {
+    "text": ">> You did a great job.",
+    "index": "591",
+    "timestamp": "00:23:52,298 --> 00:23:52,831",
+    "start": 1432298,
+    "end": 1432831
+  },
+  {
+    "text": "Congratulations.",
+    "index": "592",
+    "timestamp": "00:23:52,831 --> 00:23:53,565",
+    "start": 1432831,
+    "end": 1433565
+  },
+  {
+    "text": ">> Awesome.",
+    "index": "593",
+    "timestamp": "00:23:53,565 --> 00:23:55,734",
+    "start": 1433565,
+    "end": 1435734
+  },
+  {
+    "text": ">> It's as good as<br>it gets right here.",
+    "index": "594",
+    "timestamp": "00:23:55,734 --> 00:23:57,303",
+    "start": 1435734,
+    "end": 1437303
+  },
+  {
+    "text": "Streamers coming down.",
+    "index": "595",
+    "timestamp": "00:23:57,303 --> 00:23:58,637",
+    "start": 1437303,
+    "end": 1438637
+  },
+  {
+    "text": ">> You're my brother, man.",
+    "index": "596",
+    "timestamp": "00:24:00,439 --> 00:24:02,608",
+    "start": 1440439,
+    "end": 1442608
+  },
+  {
+    "text": "No matter where life takes us,",
+    "index": "597",
+    "timestamp": "00:24:02,608 --> 00:24:04,143",
+    "start": 1442608,
+    "end": 1444143
+  },
+  {
+    "text": "you'll always be<br>my brother, man.",
+    "index": "598",
+    "timestamp": "00:24:04,143 --> 00:24:06,779",
+    "start": 1444143,
+    "end": 1446779
+  },
+  {
+    "text": ">> Are you --",
+    "index": "599",
+    "timestamp": "00:24:06,779 --> 00:24:07,946",
+    "start": 1446779,
+    "end": 1447946
+  },
+  {
+    "text": ">> I am.",
+    "index": "600",
+    "timestamp": "00:24:07,946 --> 00:24:08,814",
+    "start": 1447946,
+    "end": 1448814
+  },
+  {
+    "text": "[GRUNTING]",
+    "index": "601",
+    "timestamp": "00:24:08,814 --> 00:24:11,917",
+    "start": 1448814,
+    "end": 1451917
+  },
+  {
+    "text": ">> Yes.",
+    "index": "602",
+    "timestamp": "00:24:11,917 --> 00:24:13,652",
+    "start": 1451917,
+    "end": 1453652
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "603",
+    "timestamp": "00:24:13,652 --> 00:24:17,756",
+    "start": 1453652,
+    "end": 1457756
+  },
+  {
+    "text": ">> Yes, it's still a dynasty.",
+    "index": "604",
+    "timestamp": "00:24:17,756 --> 00:24:20,192",
+    "start": 1457756,
+    "end": 1460192
+  },
+  {
+    "text": "[MUSIC]",
+    "index": "605",
+    "timestamp": "00:24:21,827 --> 00:24:38,544",
+    "start": 1461827,
+    "end": 1478544
+  }
+]

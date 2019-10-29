@@ -13,6 +13,7 @@ import com.acrcloud.rec.sdk.IACRCloudListener;
 import android.app.Activity;
 import android.os.Bundle;
 import android.content.Context;
+import android.content.BroadcastReceiver;
 import android.os.Environment;
 import android.util.Log;
 import android.view.Menu;
@@ -86,7 +87,7 @@ public class MainActivity extends Activity implements IACRCloudListener {
 		 if (this.initState) {
 		     this.mClient.startPreRecord(3000); //start prerecord, you can call "this.mClient.stopPreRecord()" to stop prerecord.
 		 }
-		 mResult.setText("Syncing captions with attraction...");
+		 mResult.setText("Syncing captions...");
 
 		 start();
 	}
