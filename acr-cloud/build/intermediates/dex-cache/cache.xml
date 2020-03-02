@@ -1,19 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/Users/kyle/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/kyle/Develop/signglasses-demo-captions/acr-cloud/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_4208cd0159b151a1e38e550ef4b08141bb763a24.jar" />
-    </item>
-    <item
-        jar="/Users/kyle/Develop/signglasses-demo-captions/acr-cloud/app/libs/acrcloud-android-sdk-1.5.7.6.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="4a44e643008d6c387565cfcea084f2f014f94884">
-        <dex dex="/Users/kyle/Develop/signglasses-demo-captions/acr-cloud/app/build/intermediates/pre-dexed/debug/acrcloud-android-sdk-1.5.7.6_961bcb37e3882f48e5ecd30347359313d0ae9407.jar" />
-    </item>
-
-</items>
+<items version="2" />

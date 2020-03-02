@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c7755ff-c07e-4256-b45b-8174d1b06625" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/acr-cloud/app/src/main/assets/acrcloud/afp.df" afterPath="$PROJECT_DIR$/acr-cloud/app/src/main/assets/acrcloud/afp.df" />
+      <change beforePath="$PROJECT_DIR$/acr-cloud/app/src/main/assets/acrcloud/afp.iv" afterPath="$PROJECT_DIR$/acr-cloud/app/src/main/assets/acrcloud/afp.iv" />
+      <change beforePath="$PROJECT_DIR$/acr-cloud/app/src/main/assets/acrcloud/afp.op" afterPath="$PROJECT_DIR$/acr-cloud/app/src/main/assets/acrcloud/afp.op" />
       <change beforePath="$PROJECT_DIR$/acr-cloud/app/src/main/java/com/acrcloud/rec/demo/MainActivity.java" afterPath="$PROJECT_DIR$/acr-cloud/app/src/main/java/com/acrcloud/rec/demo/MainActivity.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,37 +48,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="signglasses-movies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="signglasses-movies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="signglasses-movies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="signglasses-movies" type="462c0819:PsiDirectoryNode" />
-              <item name="acr-cloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="signglasses-movies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="signglasses-movies" type="462c0819:PsiDirectoryNode" />
-              <item name="ACRCloudSDKDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="signglasses-movies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="signglasses-movies" type="462c0819:PsiDirectoryNode" />
-              <item name="ACRCloudSDKDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="signglasses-sync-captions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="signglasses-sync-captions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">

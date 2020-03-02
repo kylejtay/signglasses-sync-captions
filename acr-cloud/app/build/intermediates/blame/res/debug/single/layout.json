@@ -12,6 +12,10 @@
         "source": "/Users/kyle/Develop/signglasses-movies/acr-cloud/app/src/main/res/layout/activity_main.xml"
     },
     {
+        "merged": "/Users/kyle/Develop/signglasses-sync-captions/acr-cloud/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/kyle/Develop/signglasses-sync-captions/acr-cloud/app/src/main/res/layout/activity_main.xml"
+    },
+    {
         "merged": "/Users/panqinxue/AndroidStudioProjects/ACRCloud-android-sdk-1.3.3/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/Users/panqinxue/AndroidStudioProjects/ACRCloud-android-sdk-1.3.3/ACRCloudSDKDemo/app/src/main/res/layout/activity_main.xml"
     },

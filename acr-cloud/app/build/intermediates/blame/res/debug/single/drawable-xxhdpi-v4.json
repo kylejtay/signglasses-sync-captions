@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/kyle/Develop/signglasses-sync-captions/acr-cloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/kyle/Develop/signglasses-sync-captions/acr-cloud/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/kyle/Develop/signglasses-movies/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
         "source": "/Users/kyle/Develop/signglasses-movies/ACRCloudSDKDemo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
     },

@@ -52,7 +52,7 @@
             android:textColor="#FFFFFF"
             android:textSize="17sp"
             android:paddingLeft="50dip"
-            android:paddingRight="20dip"
+            android:paddingRight="0dip"
             android:gravity="bottom|center"
             android:layout_gravity="bottom|center" />
 

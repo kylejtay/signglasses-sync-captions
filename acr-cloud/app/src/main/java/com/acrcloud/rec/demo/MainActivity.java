@@ -54,8 +54,7 @@ public class MainActivity extends Activity implements IACRCloudListener {
 		setContentView(R.layout.activity_main);
 
 		path = "/storage/external/acrcloud/model"; // VUZIX
-		// path = "/storage/extSdCard/acrcloud/model";
-		// path = "/storage/sdcard1/acrcloud/model";
+		// path = "file:///assets/acrcloud"; // Assets Folder
 		Log.d("file path", path);
 
 		Log.d("database path", path);
@@ -71,14 +70,10 @@ public class MainActivity extends Activity implements IACRCloudListener {
 		 this.mConfig.acrcloudListener = this;
 
 		 this.mConfig.context = this;
-		 // this.mConfig.host = "identify-us-west-2.acrcloud.com";
 		 this.mConfig.dbPath = path; // offline db path, you can change it with other path which this app can access.
 		 this.mConfig.accessKey = "59a0ed1e5ad32d1e4fa1b1c8a452d1c4";
 		 this.mConfig.accessSecret = "EpTfAwq5qHOUAKH2vyVNL41Qtsty0bsBtby0okEq";
-		 // this.mConfig.protocol = ACRCloudConfig.ACRCloudNetworkProtocol.PROTOCOL_HTTP; // PROTOCOL_HTTPS
-		// this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_REMOTE;
 		 this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_LOCAL;
-		 //this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_BOTH;
 
 		 this.mClient = new ACRCloudClient();
 		 // If reqMode is REC_MODE_LOCAL or REC_MODE_BOTH,

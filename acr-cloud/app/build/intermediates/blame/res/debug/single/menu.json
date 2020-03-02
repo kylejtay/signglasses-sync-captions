@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/kyle/Develop/signglasses-sync-captions/acr-cloud/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/kyle/Develop/signglasses-sync-captions/acr-cloud/app/src/main/res/menu/main.xml"
+    },
+    {
         "merged": "/Users/kyle/Develop/signglasses-demo-captions/acr-cloud/app/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/Users/kyle/Develop/signglasses-demo-captions/acr-cloud/app/src/main/res/menu/main.xml"
     },
