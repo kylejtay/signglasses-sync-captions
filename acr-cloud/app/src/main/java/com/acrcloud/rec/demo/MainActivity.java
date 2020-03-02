@@ -73,8 +73,8 @@ public class MainActivity extends Activity implements IACRCloudListener {
 		 this.mConfig.context = this;
 		 // this.mConfig.host = "identify-us-west-2.acrcloud.com";
 		 this.mConfig.dbPath = path; // offline db path, you can change it with other path which this app can access.
-		 this.mConfig.accessKey = "3ccefd69b797489a547bdb2a92434c4b";
-		 this.mConfig.accessSecret = "1pfwS6kxGx4PLlhccdzTMiqVnGPxU1uU6WV4zbUt";
+		 this.mConfig.accessKey = "59a0ed1e5ad32d1e4fa1b1c8a452d1c4";
+		 this.mConfig.accessSecret = "EpTfAwq5qHOUAKH2vyVNL41Qtsty0bsBtby0okEq";
 		 // this.mConfig.protocol = ACRCloudConfig.ACRCloudNetworkProtocol.PROTOCOL_HTTP; // PROTOCOL_HTTPS
 		// this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_REMOTE;
 		 this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_LOCAL;
